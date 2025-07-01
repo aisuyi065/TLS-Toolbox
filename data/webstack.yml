@@ -171,6 +171,104 @@
           description: 抖音微信达人邀约软件
 
 
+- taxonomy: 直播辅助
+  icon: fa-video
+  links:
+        - title: 驼铃直播中控工具
+          logo: images/Live broadcast software/zhibozhongkong.png
+          url: https://fbjvryq00y.feishu.cn/drive/folder/K7zIfP4IOlI5PxdberKcNgqOnCc?from=from_copylink
+          description: 自动弹窗、自动发言等
+        - title: 抖音直播伴侣
+          logo: images/Live broadcast software/douyinzhibobanlv.jpg
+          url: https://streamingtool.douyin.com/
+          description: 抖音、火山官方直播工具
+        - title: 快手直播伴侣
+          logo: images/Live broadcast software/kuaishouzhibobanlv.png
+          url: https://live.kuaishou.com/live-partner
+          description: 快手平台直播软件
+        - title: 小红书直播助手
+          logo: images/Live broadcast software/xiaohongshu.jpg
+          url: https://www.xiaohongshu.com/zhibo/robs
+          description: 小红书电脑直播助手
+        - title: OBS
+          logo: images/Live broadcast software/obs.png
+          url: https://obsproject.com/
+          description: 多平台直播推流工具
+        - title: StreamCap
+          logo: images/Live broadcast software/StreamCap.jpg
+          url: https://fbjvryq00y.feishu.cn/drive/folder/Y0BTfqMWoleXphdT1cNci3fDnUg?from=from_copylink
+          description: 多平台直播录屏软件
+
+
+- taxonomy: 视频编辑
+  icon: fa-video
+  links:
+        - title: 剪映
+          logo: images/Video editing tools/jianying.png
+          url: https://www.capcut.cn/
+          description: 全能易用的视频剪辑软件
+        - title: 即梦AI
+          logo: images/Video editing tools/jimeng.png
+          url: https://jimeng.jianying.com/
+          description: 一站式AI视频创作平台
+        - title: Vidu
+          logo: images/Video editing tools/vidu.jpeg
+          url: https://www.vidu.cn/create
+          description: 一站式AI视频创作平台
+        - title: SkyReels Tutorial
+          logo: images/Video editing tools/skyreels.jpeg
+          url: https://www.skyreels.ai/
+          description: 一站式AI视频创作平台
+        - title: Viggle AI
+          logo: images/Video editing tools/viggle.jpeg
+          url: https://viggle.ai/app
+          description: 生成高质量、可控的动态视频
+        - title: 小白兔 AI
+          logo: images/Video editing tools/xiaobaitu.png
+          url: https://xiaobaituai.com/
+          description: 一站式AI视频创作软件
+        - title: 江湖工具箱
+          logo: images/Video editing tools/jianghugongjuxiang.png
+          url: https://www.jianghudata.com/
+          description: 电商多功能软件
+        - title: 红抖AI助手
+          logo: images/Video editing tools/hongdou.jpg
+          url: https://hd.jianliai.com/
+          description: 最全的AI创作工具箱
+        - title: 腾讯智影
+          logo: images/Video editing tools/zenvideo.png
+          url: https://zenvideo.qq.com/home
+          description: 腾讯AI智能创作平台
+        - title: 鬼手剪辑
+          logo: images/Video editing tools/guishoujianji.png
+          url: https://jollytoday.com/index/cn
+          description: 硬字幕翻译、视频去字幕
+        - title: 闪电配音
+          logo: images/Video editing tools/shandianpeiyin.png
+          url: https://www.soundems.com/
+          description: 配音平台
+        - title: 微软文本转语音
+          logo: images/Video editing tools/Azure AI.png
+          url: https://azure.microsoft.com/zh-cn/products/ai-services/text-to-speech/
+          description: 微软文本转语音
+        - title: 讯飞智作
+          logo: images/Video editing tools/xunfeizhizuo.png
+          url: https://peiyin.xunfei.cn/
+          description: 讯飞AI配音
+        - title: 即时工具
+          logo: images/Video editing tools/jishi.png
+          url: https://www.67tool.com/
+          description: 视频、图片处理工具箱
+        - title: 直播片段生成器
+          logo: images/Video editing tools/taobao.png
+          url: https://chuangyi.taobao.com/external/liveVideoClipper?from=maijia123.com/ai
+          description: 淘宝直播片段生成工具
+        - title: 短视频混剪工具
+          logo: images/Video editing tools/taobao.png
+          url: https://chuangyi.taobao.com/external/meditorMix?from=maijia123.com/ai
+          description: 淘宝短视频混剪工具
+
+
 - taxonomy: 电商入驻
   icon: fa-store
   links:
@@ -369,104 +467,6 @@
           logo: images/Data analysis/doulaoban.png
           url: https://zs.doulaoban.com/login
           description: 多平台数据管理
-
-
-- taxonomy: 视频编辑
-  icon: fa-video
-  links:
-        - title: 剪映
-          logo: images/Video editing tools/jianying.png
-          url: https://www.capcut.cn/
-          description: 全能易用的视频剪辑软件
-        - title: 即梦AI
-          logo: images/Video editing tools/jimeng.png
-          url: https://jimeng.jianying.com/
-          description: 一站式AI视频创作平台
-        - title: Vidu
-          logo: images/Video editing tools/vidu.jpeg
-          url: https://www.vidu.cn/create
-          description: 一站式AI视频创作平台
-        - title: SkyReels Tutorial
-          logo: images/Video editing tools/skyreels.jpeg
-          url: https://www.skyreels.ai/
-          description: 一站式AI视频创作平台
-        - title: Viggle AI
-          logo: images/Video editing tools/viggle.jpeg
-          url: https://viggle.ai/app
-          description: 生成高质量、可控的动态视频
-        - title: 小白兔 AI
-          logo: images/Video editing tools/xiaobaitu.png
-          url: https://xiaobaituai.com/
-          description: 一站式AI视频创作软件
-        - title: 江湖工具箱
-          logo: images/Video editing tools/jianghugongjuxiang.png
-          url: https://www.jianghudata.com/
-          description: 电商多功能软件
-        - title: 红抖AI助手
-          logo: images/Video editing tools/hongdou.jpg
-          url: https://hd.jianliai.com/
-          description: 最全的AI创作工具箱
-        - title: 腾讯智影
-          logo: images/Video editing tools/zenvideo.png
-          url: https://zenvideo.qq.com/home
-          description: 腾讯AI智能创作平台
-        - title: 鬼手剪辑
-          logo: images/Video editing tools/guishoujianji.png
-          url: https://jollytoday.com/index/cn
-          description: 硬字幕翻译、视频去字幕
-        - title: 闪电配音
-          logo: images/Video editing tools/shandianpeiyin.png
-          url: https://www.soundems.com/
-          description: 配音平台
-        - title: 微软文本转语音
-          logo: images/Video editing tools/Azure AI.png
-          url: https://azure.microsoft.com/zh-cn/products/ai-services/text-to-speech/
-          description: 微软文本转语音
-        - title: 讯飞智作
-          logo: images/Video editing tools/xunfeizhizuo.png
-          url: https://peiyin.xunfei.cn/
-          description: 讯飞AI配音
-        - title: 即时工具
-          logo: images/Video editing tools/jishi.png
-          url: https://www.67tool.com/
-          description: 视频、图片处理工具箱
-        - title: 直播片段生成器
-          logo: images/Video editing tools/taobao.png
-          url: https://chuangyi.taobao.com/external/liveVideoClipper?from=maijia123.com/ai
-          description: 淘宝直播片段生成工具
-        - title: 短视频混剪工具
-          logo: images/Video editing tools/taobao.png
-          url: https://chuangyi.taobao.com/external/meditorMix?from=maijia123.com/ai
-          description: 淘宝短视频混剪工具
-
-
-- taxonomy: 直播辅助
-  icon: fa-video
-  links:
-        - title: 驼铃直播中控工具
-          logo: images/Live broadcast software/zhibozhongkong.png
-          url: https://fbjvryq00y.feishu.cn/drive/folder/K7zIfP4IOlI5PxdberKcNgqOnCc?from=from_copylink
-          description: 自动弹窗、自动发言等
-        - title: 抖音直播伴侣
-          logo: images/Live broadcast software/douyinzhibobanlv.jpg
-          url: https://streamingtool.douyin.com/
-          description: 抖音、火山官方直播工具
-        - title: 快手直播伴侣
-          logo: images/Live broadcast software/kuaishouzhibobanlv.png
-          url: https://live.kuaishou.com/live-partner
-          description: 快手平台直播软件
-        - title: 小红书直播助手
-          logo: images/Live broadcast software/xiaohongshu.jpg
-          url: https://www.xiaohongshu.com/zhibo/robs
-          description: 小红书电脑直播助手
-        - title: OBS
-          logo: images/Live broadcast software/obs.png
-          url: https://obsproject.com/
-          description: 多平台直播推流工具
-        - title: StreamCap
-          logo: images/Live broadcast software/StreamCap.jpg
-          url: https://fbjvryq00y.feishu.cn/drive/folder/Y0BTfqMWoleXphdT1cNci3fDnUg?from=from_copylink
-          description: 多平台直播录屏软件
 
 
 - taxonomy: 设计软件
