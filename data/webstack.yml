@@ -41,7 +41,15 @@
           description: 集合多平台规则中心
         - title: TuolingTV - 观影
           logo: images/logos/tlslogo.jpg
-          url: https://tv.199908.top/
+          url: https://tv1.199908.top/
+          description: 免费影视资源，无需注册
+          - title: TuolingTV - 观影
+          logo: images/logos/tlslogo.jpg
+          url: https://tv2.199908.top/
+          description: 免费影视资源，无需注册
+          - title: TuolingTV - 观影
+          logo: images/logos/tlslogo.jpg
+          url: https://tv3.199908.top/
           description: 免费影视资源，无需注册
 
 
