@@ -169,6 +169,10 @@
           logo: images/E-commerce plug-in/Lingyao AI.jpg
           url: https://limob.cn/
           description: 抖音微信达人邀约软件
+        - title: 巨量创意
+          logo: images/E-commerce plug-in/juliangchuangyi.png
+          url: https://cc.oceanengine.com/
+          description: 激发创意灵感
         - title: 淘宝光合平台
           logo: images/E-commerce plug-in/taobao.png
           url: https://creator.guanghe.taobao.com/?from=maijia123.com/ai
@@ -193,14 +197,6 @@
           logo: images/E-commerce plug-in/taobao.png
           url: https://we.taobao.com/?from=maijia123.com/ai
           description: 阿里内容创作平台
-        - title: 巨量创意
-          logo: images/E-commerce plug-in/juliangchuangyi.png
-          url: https://cc.oceanengine.com/
-          description: 激发创意灵感
-        - title: 字体违规检测
-          logo: images/E-commerce plug-in/taobao.png
-          url: https://banquan.taobao.com/font/home?from=maijia123.com/ai
-          description: 淘宝字体违规检测工具
 
 
 - taxonomy: 广告投放平台
