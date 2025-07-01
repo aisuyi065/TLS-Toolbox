@@ -57,7 +57,7 @@
           url: https://channels.weixin.qq.com/shop
           description: 腾讯视频号小店入驻
         - title: 快手小店
-          logo: images/Store settled in/kuaiyu.jpg
+          logo: images/Store settled in/kuaishou.jpg
           url: https://www.kwaixiaodian.com/
           description: 快手小店入驻
         - title: 小红书店铺
@@ -88,10 +88,39 @@
           logo: images/Store settled in/shopify.png
           url: https://www.shopify.com/?from=maijia123.com/ai
           description: 最大的独立站建站平台
-        - title: AliExpress
+        - title: 速卖通AliExpress
           logo: images/Store settled in/aliexpress.png
-          url: https://www.aliexpress.com/?from=maijia123.com/ai
+          url: https://www.aliexpress.com
           description: 阿里巴巴旗下的跨境电商平台
+        - title: Shopee
+          logo: images/Store settled in/Shopee.png
+          url: https://shopee.com/
+          description: 东南亚和台湾地区的领先电子商务在线购物平台
+        - title: Lazada
+          logo: images/Store settled in/Lazada.png
+          url: https://www.lazada.com/
+          description: 东南亚地区最大的电商平台之一
+        - title: Etsy
+          logo: images/Store settled in/etsy.png
+          url: https://www.etsy.com/
+          description: 一个专注于手工艺品、艺术品和独立设计师商品的在线市场，允许卖家和买家进行全球范围的交易。
+        - title: eBay
+          logo: images/Store settled in/ebay.png
+          url: https://www.ebay.com/
+          description: 全球最大的在线拍卖和购物网站之一，用户可以在eBay上购买和出售各种商品，包括电子产品、服装、收藏品、家居用品等。
+        - title: Wish
+          logo: images/Store settled in/wish.png
+          url: https://www.wish.com/
+          description: 一家全球性的电子商务平台，允许商家在其平台上销售商品。
+        - title: Daraz
+          logo: images/Store settled in/daraz.ico
+          url: https://www.daraz.pk/
+          description: 巴基斯坦最大的电商平台之一，属于Alibaba集团旗下的跨境电商平台。
+        - title: Newegg
+          logo: images/Store settled in/newegg.png
+          url: https://www.newegg.com/
+          description: 一家总部位于美国的电子商务公司，专注于电子产品和电脑硬件的销售。
+
 
 - taxonomy: 商家软件
   icon: fa-shopping-cart
@@ -133,6 +162,38 @@
 - taxonomy: 电商辅助
   icon: fa-shopping-cart
   links:
+        - title: 巨量创意
+          logo: images/E-commerce plug-in/juliangchuangyi.png
+          url: https://cc.oceanengine.com/
+          description: 激发创意灵感
+        - title: 阿里妈妈创意中心
+          logo: images/E-commerce plug-in/taobaogongju.png
+          url: https://chuangyi.taobao.com/?from=maijia123.com/ai
+          description: 阿里妈妈创意资源中心
+        - title: 淘宝知识产权保护
+          logo: images/E-commerce plug-in/taobao.png
+          url: https://yc.alibaba.com/?from=maijia123.com/ai
+          description: 阿里巴巴原创保护平台
+        - title: 抖音知识产权保护
+          logo: images/E-commerce plug-in/douyin.jpg
+          url: https://ippro.bytedance.com/
+          description: 抖音电商原创保护平台
+        - title: 拼多多知识产权保护
+          logo: images/E-commerce plug-in/pinduoduo.jpg
+          url: https://ipp.pinduoduo.com/
+          description: 拼多多原创保护平台
+        - title: 小红书知识产权保护
+          logo: images/E-commerce plug-in/xiaohongshu.jpg
+          url: https://ipp.xiaohongshu.com/
+          description: 小红书原创保护平台
+        - title: 快手知识产权保护
+          logo: images/E-commerce plug-in/kuaishou.jpg
+          url: https://ipp.kuaishou.com/
+          description: 快手电商原创保护平台
+        - title: 京东知识产权保护
+          logo: images/E-commerce plug-in/jingdong.png
+          url: https://jdgroupip.com/
+          description: 京东知识产权保护平台
         - title: 指纹浏览器
           logo: images/E-commerce plug-in/zhiwenliulanqi.png
           url: https://virtualbrowser.cc/
@@ -145,6 +206,18 @@
           logo: images/E-commerce plug-in/zhizunbao.jpg
           url: https://zzbtool.com/index.html
           description: 多平台电商运营插件
+        - title: 店查查
+          logo: images/E-commerce plug-in/dianchacha.png
+          url: https://www.dianchacha.com/chajian/
+          description: 淘宝运营神器插件
+        - title: 店透视
+          logo: images/E-commerce plug-in/diantoushi.png
+          url: https://www.dianqing.com/
+          description: 指数还原详情插件
+        - title: AliPrice助手
+          logo: images/E-commerce plug-in/AliPrice.png
+          url: https://www.aliprice.com/
+          description: 支持淘宝、1688、速卖通、拼多多等购物平台以图搜货和历史价格追踪的卖家助手
         - title: 山海云端短视频解析
           logo: images/E-commerce plug-in/shanhai.png
           url: https://api.yyy001.com/tools/demo-videoparse.html#
@@ -173,38 +246,19 @@
           logo: images/E-commerce plug-in/Lingyao AI.jpg
           url: https://limob.cn/
           description: 抖音微信达人邀约软件
-        - title: 巨量创意
-          logo: images/E-commerce plug-in/juliangchuangyi.png
-          url: https://cc.oceanengine.com/
-          description: 激发创意灵感
-        - title: 阿里妈妈创意中心
-          logo: images/E-commerce plug-in/taobao.png
-          url: https://chuangyi.taobao.com/?from=maijia123.com/ai
-          description: 阿里妈妈创意资源中心
-        - title: 淘宝知识产权保护
-          logo: images/E-commerce plug-in/taobao.png
-          url: https://yc.alibaba.com/?from=maijia123.com/ai
-          description: 阿里巴巴原创保护平台
-        - title: 抖音知识产权保护
-          logo: images/E-commerce plug-in/douyin.jpg
-          url: https://ippro.bytedance.com/
-          description: 抖音电商原创保护平台
-        - title: 拼多多知识产权保护
-          logo: images/E-commerce plug-in/pinduoduo.jpg
-          url: https://ipp.pinduoduo.com/
-          description: 拼多多原创保护平台
-        - title: 小红书知识产权保护
-          logo: images/E-commerce plug-in/xiaohongshu.jpg
-          url: https://ipp.xiaohongshu.com/
-          description: 小红书原创保护平台
-        - title: 快手知识产权保护
-          logo: images/E-commerce plug-in/kuaishou.jpg
-          url: https://ipp.kuaishou.com/
-          description: 快手电商原创保护平台
-        - title: 京东知识产权保护
-          logo: images/E-commerce plug-in/jingdong.png
-          url: https://jdgroupip.com/
-          description: 京东知识产权保护平台
+
+
+- taxonomy: 电商货源
+  icon: fa-shopping-cart
+  links:
+        - title: 1688
+          logo: images/E-commerce supply/1688.png
+          url: https://1688.com/
+          description: 1688货源平台
+        - title: 义乌购
+          logo: images/E-commerce supply/yiwugou.png
+          url: https://www.yiwugo.com/
+          description: 义乌购货源平台
 
 
 - taxonomy: 广告投放
@@ -267,9 +321,21 @@
           logo: images/Data analysis/shengyicanmou.png
           url: https://sycm.taobao.com/?from=maijia123.com/ai
           description: 淘宝数据分析工具
+        - title: 巨量算数
+          logo: images/Data analysis/juliangsuanshu.svg
+          url: https://trendinsight.oceanengine.com/
+          description: 抖音官方大数据平台
+        - title: 抖音官方选品工具
+          logo: images/Data analysis/douyin.jpg
+          url: https://bytedance.feishu.cn/docx/FCCxdKMarouWw3xrR87cNKeRn3b
+          description: 抖音官方选品工具
         - title: 蝉妈妈
           logo: images/Data analysis/chanmama.jpg
           url: http://www.chanmama.com
+          description: 抖音直播数据、选品平台
+        - title: 飞瓜
+          logo: images/Data analysis/feigua.png
+          url: https://www.feigua.com/
           description: 抖音直播数据、选品平台
         - title: 考古加
           logo: images/Data analysis/kaogujia.jpg
@@ -279,10 +345,6 @@
           logo: images/Data analysis/youmiyoushu.png
           url: https://youshu.youcloud.com/
           description: 广告投放数据分析工具
-        - title: 巨量算数
-          logo: images/Data analysis/juliangsuanshu.svg
-          url: https://trendinsight.oceanengine.com/
-          description: 抖音官方大数据平台
         - title: 灰豚数据-抖音
           logo: images/Data analysis/huitun.jpg
           url: https://dy.huitun.com/
@@ -303,12 +365,8 @@
           logo: images/Data analysis/douchacha.jpg
           url: https://www.douchacha.com/
           description: 数据、达人与选品平台
-        - title: 抖音官方选品工具
-          logo: images/Data analysis/douyin.jpg
-          url: https://bytedance.feishu.cn/docx/FCCxdKMarouWw3xrR87cNKeRn3b
-          description: 抖音官方选品工具
         - title: 抖老板带货助手
-          logo: images/Data analysis/feigua.jpg
+          logo: images/Data analysis/doulaoban.png
           url: https://zs.doulaoban.com/login
           description: 多平台数据管理
 
