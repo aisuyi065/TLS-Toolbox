@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: 常用工具
-  icon: fa-star
+  icon: fa-tools
   links: 
         - title: 驼铃电商知识库
           logo: images/logos/tlslogo.jpg
@@ -46,7 +46,7 @@
 
 
 - taxonomy: 电商入驻
-  icon: fa-shopping-cart
+  icon: fa-store
   links:
         - title: 抖音小店
           logo: images/Store settled in/doudian.jpg
@@ -123,7 +123,7 @@
 
 
 - taxonomy: 商家软件
-  icon: fa-shopping-cart
+  icon: fa-desktop
   links:
         - title: 抖店
           logo: images/Merchant background/doudian.jpg
@@ -160,7 +160,7 @@
 
 
 - taxonomy: 电商辅助
-  icon: fa-shopping-cart
+  icon: fa-cogs
   links:
         - title: 巨量创意
           logo: images/E-commerce plug-in/juliangchuangyi.png
@@ -262,7 +262,7 @@
 
 
 - taxonomy: 广告投放
-  icon: fa-shopping-cart
+  icon: fa-bullhorn
   links:
         - title: 直通车
           logo: images/Advertising/taobaoggongju.png
@@ -315,7 +315,7 @@
 
 
 - taxonomy: 数据分析
-  icon: fa-shopping-cart
+  icon: fa-chart-line
   links:
         - title: 生意参谋
           logo: images/Data analysis/shengyicanmou.png
@@ -608,7 +608,7 @@
 
 
 - taxonomy: 图标字体
-  icon: fa-palette
+  icon: fa-font
   links:
         - title: iconfont
           logo: images/icon font/iconfont.png
