@@ -26,13 +26,13 @@ copyright = "TLS"
   # true显示按钮，false不显示
   enable = false
   # github文件的远程链接，改成自己的
-  url = "https://github.com/TLS-802/TLS-Toolbox44/blob/main/data/webstack.yml"
+  url = "https://github.com/TLS-802/TLS-Toolbox/blob/main/data/webstack.yml"
   
 #桌面端右上角code按钮
 [params.github]
   #true显示 false隐藏
   enable = true 
-  url = "https://github.com/TLS-802/TLS-Toolbox44"
+  url = "https://github.com/TLS-802/TLS-Toolbox"
   
 [permalinks]  
   404 = "/404.html"
