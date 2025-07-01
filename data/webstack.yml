@@ -103,7 +103,7 @@
         - title: 千牛
           logo: images/Merchant background/qianniu.jpg
           url: https://loginmyseller.taobao.com/
-          description: 淘宝商家工具
+          description: 淘宝天猫商家工具
         - title: 快手
           logo: images/Merchant background/kuiayu.jpg
           url: https://login.kwaixiaodian.com/
@@ -116,6 +116,10 @@
           logo: images/Merchant background/shipinhao.jpg
           url: https://store.weixin.qq.com/
           description: 视频号商家工具
+        - title: 拼多多
+          logo: images/Merchant background/pinduoduou.jpg
+          url: https://mms.pinduoduo.com/other/downloadapp/
+          description: 拼多多商家工具
         - title: 千帆
           logo: images/Merchant background/xhs sahngjia.jpg
           url: https://customer.xiaohongshu.com/login?service=https://ark.xiaohongshu.com/app-system/home
@@ -173,30 +177,14 @@
           logo: images/E-commerce plug-in/juliangchuangyi.png
           url: https://cc.oceanengine.com/
           description: 激发创意灵感
-        - title: 淘宝光合平台
-          logo: images/E-commerce plug-in/taobao.png
-          url: https://creator.guanghe.taobao.com/?from=maijia123.com/ai
-          description: 淘宝内容创作平台
-        - title: 体检中心
-          logo: images/E-commerce plug-in/taobao.png
-          url: https://healthcenter.taobao.com/home/health_home.htm?from=maijia123.com/ai
-          description: 淘宝店铺体检工具
-        - title: 淘商机
-          logo: images/E-commerce plug-in/taobao.png
-          url: https://qn.taobao.com/home.htm/trend-product-operation?from=maijia123.com/ai
-          description: 淘宝商机发现工具
-        - title: 原创保护
-          logo: images/E-commerce plug-in/taobao.png
-          url: https://yc.alibaba.com/?from=maijia123.com/ai
-          description: 阿里巴巴原创保护平台
         - title: 阿里妈妈创意中心
           logo: images/E-commerce plug-in/taobao.png
           url: https://chuangyi.taobao.com/?from=maijia123.com/ai
           description: 阿里妈妈创意资源中心
-        - title: 阿里创作平台
+        - title: 原创保护
           logo: images/E-commerce plug-in/taobao.png
-          url: https://we.taobao.com/?from=maijia123.com/ai
-          description: 阿里内容创作平台
+          url: https://yc.alibaba.com/?from=maijia123.com/ai
+          description: 阿里巴巴原创保护平台
 
 
 - taxonomy: 广告投放
