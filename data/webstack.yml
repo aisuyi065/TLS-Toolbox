@@ -194,23 +194,11 @@
           url: https://we.taobao.com/?from=maijia123.com/ai
           description: 阿里内容创作平台
         - title: 巨量创意
-          logo: images/logos/oceanengine.png
+          logo: images/E-commerce plug-in/juliangchuangyi.png
           url: https://cc.oceanengine.com/
           description: 激发创意灵感
-        - title: 生意参谋
-          logo: images/logos/tlslogo.jpg
-          url: https://sycm.taobao.com/?from=maijia123.com/ai
-          description: 淘宝数据分析工具
-        - title: 营销活动中心
-          logo: images/logos/tlslogo.jpg
-          url: https://sale.tmall.com/sale/seller/homepage.htm?from=maijia123.com/ai
-          description: 淘宝营销活动管理
-        - title: 淘宝买家隐私保护
-          logo: images/E-commerce plug-in/taobao.png
-          url: https://myseller.taobao.com/home.htm/merchant-intimity-console/?from=maijia123.com/ai
-          description: 淘宝买家隐私保护设置
         - title: 字体违规检测
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/taobao.png
           url: https://banquan.taobao.com/font/home?from=maijia123.com/ai
           description: 淘宝字体违规检测工具
 
