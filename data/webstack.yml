@@ -209,18 +209,10 @@
           logo: images/E-commerce plug-in/taobao.png
           url: https://myseller.taobao.com/home.htm/merchant-intimity-console/?from=maijia123.com/ai
           description: 淘宝买家隐私保护设置
-        - title: 淘宝光合平台
-          logo: images/E-commerce plug-in/taobao.png
-          url: https://creator.guanghe.taobao.com/?from=maijia123.com/ai
-          description: 淘宝内容创作平台
         - title: 字体违规检测
           logo: images/logos/tlslogo.jpg
           url: https://banquan.taobao.com/font/home?from=maijia123.com/ai
           description: 淘宝字体违规检测工具
-        - title: 体检中心
-          logo: images/logos/tlslogo.jpg
-          url: https://healthcenter.taobao.com/home/health_home.htm?from=maijia123.com/ai
-          description: 淘宝店铺体检工具
 
 
 - taxonomy: 广告投放平台
