@@ -181,10 +181,30 @@
           logo: images/E-commerce plug-in/taobao.png
           url: https://chuangyi.taobao.com/?from=maijia123.com/ai
           description: 阿里妈妈创意资源中心
-        - title: 原创保护
+        - title: 淘宝知识产权保护
           logo: images/E-commerce plug-in/taobao.png
           url: https://yc.alibaba.com/?from=maijia123.com/ai
           description: 阿里巴巴原创保护平台
+        - title: 抖音知识产权保护
+          logo: images/E-commerce plug-in/douyin.jpg
+          url: https://ippro.bytedance.com/
+          description: 抖音电商原创保护平台
+        - title: 拼多多知识产权保护
+          logo: images/E-commerce plug-in/pinduoduo.jpg
+          url: https://ipp.pinduoduo.com/
+          description: 拼多多原创保护平台
+        - title: 小红书知识产权保护
+          logo: images/E-commerce plug-in/xiaohongshu.jpg
+          url: https://ipp.xiaohongshu.com/
+          description: 小红书原创保护平台
+        - title: 快手知识产权保护
+          logo: images/E-commerce plug-in/kuaishou.jpg
+          url: https://ipp.kuaishou.com/
+          description: 快手电商原创保护平台
+        - title: 京东知识产权保护
+          logo: images/E-commerce plug-in/jingdong.png
+          url: https://jdgroupip.com/
+          description: 京东知识产权保护平台
 
 
 - taxonomy: 广告投放
