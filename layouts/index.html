@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>{{ .Site.Title }}</title>
+<meta name="theme-color" content="#2C2E2F" />
+<meta name="keywords" content="{{ .Site.Params.keywords }}">
+<meta name="description" content="{{ .Site.Params.Description }}">
+<!-- Open Graph 元数据，用于社交媒体分享 -->
+<meta property="og:type" content="article">
+<meta property="og:url" content="">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+<meta property="og:site_name" content="">
+<!-- 网站图标和应用图标 -->
+<link rel="shortcut icon" href="./images/tlslogo.jpg">
+<link rel="apple-touch-icon" href="./images/tlslogo.jpg">
+<!-- CSS 样式文件引入 -->
+<link rel='stylesheet' id='font-awesome-css'  href='./css/font-awesome.min.css?ver=6.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='./css/bootstrap.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nav-css'  href='./css/nav.css?ver=2.0.0' type='text/css' media='all' />
+<!-- jQuery 库引入 -->
+<script type='text/javascript' src='./js/jquery-1.11.1.min.js'></script>
+</head>
+<!-- 根据暗黑模式设置添加不同的body类 -->
+<body class="page-body {{ if .Site.Params.darkmode.enable }}black{{ else }}white{{ end }}">
+    <div class="page-container">
+        <!-- 侧边栏菜单 -->
+        <div class="sidebar-menu toggle-others fixed">
+            <div class="sidebar-menu-inner">
+                <header class="logo-env">
+                    <!-- 网站logo -->
+                    <div class="logo">
+                        <a href="./" class="logo-expanded" >
+                            <img src="./images/tlslogo.jpg" height="40" alt="" />
+                            &nbsp&nbsp{{ .Site.Title }}
+                        </a>
+                        <a href="./" class="logo-collapsed">
+                            <img src="./images/tlslogo.jpg" height="40" alt="">
+                        </a>
+                    </div>
+                    <!-- 移动端菜单切换按钮 -->
+                    <div class="mobile-menu-toggle visible-xs">
+                        <a href="#" data-toggle="mobile-menu">
+                            <i class="fa fa-bars"></i>
+                        </a>
+                    </div>
+                </header>
+                <!-- 主菜单列表 -->
+                <ul id="main-menu" class="main-menu">
+                    {{ range .Site.Data.webstack }}
+                    {{ if .list }}
+                        <!-- 有子菜单的导航项 -->
+                        <li>
+                            <a>
+                               <i class="fa {{ .icon }} fa-fw"></i>
+                               <span class="title">{{ .taxonomy }}</span>
+                            </a>
+                            <ul>
+                                {{ range .list }}    
+                                <li>
+                                    <a href="#{{ md5 .term }}" class="smooth">{{ .term }}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </li>
+                    {{ else }}
+                        <!-- 无子菜单的导航项 -->
+                        <li>
+                            <a href="#{{ md5 .taxonomy }}" class="smooth">
+                               <i class="fa {{ .icon }} fa-fw"></i>
+                               <span class="title">{{ .taxonomy }}</span>
+                            </a>
+                        </li> 
+                    {{ end }}                 
+                    {{ end }}
+                    <li class="submit-tag">
+                </ul>
+            </div>
+        </div>
+        <!-- 主内容区域 -->
+        <div class="main-content">
+<!-- 顶部导航栏 -->
+<nav class="navbar user-info-navbar" role="navigation">
+    <div class="navbar-content">
+        <ul class="user-info-menu left-links list-inline list-unstyled">
+            <li class="hidden-xs">
+                <a href="#" data-toggle="sidebar" ><i class="fa fa-bars"></i></a>
+            </li>
+            <!-- 和风天气插件 -->
+            <li>
+              <div id="he-plugin-simple"></div>
+              <script>WIDGET = {CONFIG: {"modules": "12034","background": 5,"tmpColor": "aaa","tmpSize": 16,"cityColor": "aaa","citySize": 16,"aqiSize": 16,"weatherIconSize": 24,"alertIconSize": 18,"padding": "30px 10px 30px 10px","shadow": "1","language": "auto","borderRadius": 5,"fixed": "false","vertical": "middle","horizontal": "left","key": "a922adf8928b4ac1ae7a31ae7375e191"}}</script>
+              <script src="https://widget.heweather.net/simple/static/js/he-simple-common.js?v=1.1"></script>
+            </li> 
+            <!-- 天气 end -->
+      </ul>
+        <!-- GitHub 仓库链接，根据配置显示 -->
+        {{ if .Site.Params.Github.enable }}
+        <ul class="user-info-menu right-links list-inline list-unstyled">
+            <li class="hidden-sm hidden-xs">
+                <a href="{{ .Site.Params.Github.url }}" target="_blank" title="Git Repo"><i class="fa fa-code"></i></a>
+            </li>
+        </ul>
+        {{ end }}
+    </div>
+</nav>
+<!-- 搜索模板引入 -->
+{{ template "search.html" . }}
+<!-- 网站列表展示区域 -->
+<div class="sites-list" style="margin-bottom: 8.5rem;">
+{{ range .Site.Data.webstack }}
+    {{ if .list }}
+        {{ $subicon := .icon }}
+        {{ range .list }}
+        <!-- {{ .term }} -->
+        <h4 class="text-gray" style="display: inline-block;"><i class="fa {{ $subicon }}" style="margin-right: 27px;" id="{{ md5 .term }}"></i>{{ .term }}</h4>
+            <div class="row">
+            {{ range .links }}
+                {{ if .qrcode }}
+                <!-- 带二维码的网站卡片 -->
+                <div class="xe-card col-xs-6 col-sm-4 col-md-3 qrcode geticon">
+                    <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<img src='{{ .qrcode }}' width='128'>">
+                        <div class="xe-comment-entry">
+                            <div class="xe-user-img">
+                                <img class="img-circle lazy" src="./images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='./images/favicon.png'" width="40">
+                            </div>
+                            <div class="xe-comment">
+                                <div class="xe-user-name overflowClip_1">
+                                    <strong>{{ .title }}</strong>
+                                </div>
+                                <p class="overflowClip_2">{{ .description }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                {{ else }}
+                <!-- 普通网站卡片 -->
+                <div class="xe-card col-xs-6 col-sm-4 col-md-3 geticon">
+                    <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" 
+                    title="{{ .description }} {{ .url }}">
+                        <div class="xe-comment-entry">
+                            <div class="xe-user-img">
+                                <img class="img-circle lazy" src="./images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='./images/favicon.png'" width="40">
+                            </div>
+                            <div class="xe-comment">
+                                <div class="xe-user-name overflowClip_1">
+                                    <strong>{{ .title }}</strong>
+                                </div>
+                                <p class="overflowClip_2">{{ .description }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                {{ end }}
+            {{ end }}
+            </div>
+        <br />
+        <!--END {{ .term }} -->
+        {{ end }}
+    {{ else }}
+        <!-- {{ .taxonomy }} -->
+        <h4 class="text-gray" style="display: inline-block;"><i class="fa {{ .icon }}" style="margin-right: 27px;" id="{{ md5 .taxonomy }}"></i>{{ .taxonomy }}</h4>
+            <div class="row">
+            {{ range .links }}
+                {{ if .qrcode }}
+                <!-- 带二维码的网站卡片 -->
+                <div class="xe-card col-xs-6 col-sm-4 col-md-3 qrcode geticon">
+                    <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<img src='{{ .qrcode }}' width='128'>">
+                        <div class="xe-comment-entry">
+                            <div class="xe-user-img">
+                                <img class="img-circle lazy" src="./images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='./images/favicon.png'" width="40">
+                            </div>
+                            <div class="xe-comment">
+                                <div class="xe-user-name overflowClip_1">
+                                    <strong>{{ .title }}</strong>
+                                </div>
+                                <p class="overflowClip_2">{{ .description }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                {{ else }}
+                <!-- 普通网站卡片 -->
+                <div class="xe-card col-xs-6 col-sm-4 col-md-3 geticon">
+                    <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" 
+                    title="{{ .description }} {{ .url }}">
+                        <div class="xe-comment-entry">
+                            <div class="xe-user-img">
+                                <img class="img-circle lazy" src="./images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='./images/favicon.png'" width="40">
+                            </div>
+                            <div class="xe-comment">
+                                <div class="xe-user-name overflowClip_1">
+                                    <strong>{{ .title }}</strong>
+                                </div>
+                                <p class="overflowClip_2">{{ .description }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                {{ end }}
+            {{ end }}
+            </div>
+        <br />
+        <!--END {{ .taxonomy }} -->
+    {{ end }}
+    <!-- 友情链接 -->
+    {{ if .friend }}
+    <div class="friendlink" style="margin-bottom:-40px">
+        <div class="panel">
+        {{ range .friend }}            
+            <!-- <h4 class="text-gray mb-4"> -->
+            <!-- <i class="fa fa-bookmark" id="friendlink" style="margin-right:10px"></i>友情链接</h4> -->                
+            <a href="{{ .url }}" rel="noopener" title="{{ .description }}" target="_blank">{{ .title }}</a>
+        {{ end }}
+        </div> 
+    </div>
+    {{ end }}
+    <!-- END 友情链接    -->
+{{ end }}
+</div>
+            <!-- 页脚 -->
+            <footer class="main-footer sticky footer-type-1">
+                <!-- 页脚按钮组 -->
+                <div class="foot-button">
+                    <a href="#" rel="go-top">
+                        <i class="fa fa-angle-up"></i>
+                    </a>
+                    <a href="javascript:" id="search-btn">
+                        <i class="fa fa-search"></i>
+                    </a>
+                    <a href="javascript:" class="bright-dark" title="日/夜">
+                        <i class="fa {{ if .Site.Params.darkmode.enable }}fa-sun{{ else }}fa-moon{{ end }}"></i>
+                    </a>                  
+                </div>
+                <div class="footer-inner">
+                    <!-- 版权信息 -->
+                    <div class="footer-text">
+                        Copyright © {{ now.Format "2006"}} <a href=""><strong>{{ if .Site.Copyright }}{{ .Site.Copyright | safeHTML }}{{ else }}author{{ end }}</strong>&nbsp;&nbsp;</a>              
+                    </div>
+                    <!-- 主题信息 -->
+                    <div class="footer-text">                       
+                        Design by <a href="https://github.com/TLS-802/TLS-Toolbox44" target="_blank" style="color: rgb(13, 109, 252); font-weight: bold;">Webstack</a>&nbsp;&middot;&nbsp;Themes by <a href="https://github.com/TLS-802/TLS-Toolbox44" target="_blank" style="color: rgb(13, 109, 252); font-weight: bold;">hugo-webstack</a>
+                    </div>
+                    <!-- 访问统计 -->
+                    <div class="footer-text">
+                        <span id="busuanzi_container_page_pv"  style="font-size:11px"> &nbsp;&nbsp; <i class="fa far fa-eye"></i> <span id="busuanzi_value_page_pv" style="color: rgb(13, 109, 252); font-weight: bold;"></span></span>                   
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <!-- 搜索框覆盖层 -->
+    <div id="overlay" style="display:none">  
+    <div id="search-box" >
+        <a href="javascript:" id="close-button" title="点击周围任意地方也可以关闭。"><i class="fa far  fa-circle-xmark" ></i></a>
+        <form onsubmit="return false;">
+            <input type="text" id="search-input" placeholder="输入关键词{{ if .Site.Params.pinyin.enable }}、拼音或拼音首字母{{ end }}" autocomplete="off">
+            <i class="search-icon fa fa-search" aria-hidden="true"></i> 
+        </form>
+        <ul id="search-results">
+            <span> 搜索本页内容</span>
+        </ul>
+        <p style="font-size:11px">键盘：Ctrl+F 开关，<strong>↑</strong> 和 <strong>↓</strong> 选择，Enter 访问</p>
+    </div>
+    <script>var rootPath = './'</script>
+    </div id="overlay"> 
+<script type="text/javascript">
+    $(document).ready(function() {
+        // 黑暗和明亮模式切换功能
+        $('footer.main-footer .foot-button .bright-dark').click(function(){   
+            var currentIcon = $(this).find('i').attr('class'); 
+            if (currentIcon.includes('fa-moon')) {
+                $(this).find('i').removeClass('fa-moon').addClass('fa-sun');
+                $('body').removeClass('white').addClass('black');
+            }else if (currentIcon.includes('fa-sun')) { 
+                    $(this).find('i').removeClass('fa-sun').addClass('fa-moon');
+                    $('body').removeClass('black').addClass('white');
+            }        
+        });
+        // 黑暗和明亮模式 END
+        
+        // 利用iowen API 获取网址icon
+        $(".geticon").each(function(){
+            var url = $(this).find('a').attr('href');
+            var apiUrl="https://api.iowen.cn/favicon/"+url.replace(/^https?:\/\//, '').replace(/\/.*$/, '')+".png"
+            if ($(this).find('img').attr('data-src').length === 0) {
+                $(this).find('img').attr('data-src', apiUrl);
+            }
+        })
+        // END 利用iowen API 获取网址icon
+        
+        // 子菜单展开/收起处理
+        $(document).on('click', '.has-sub', function(){
+            var _this = $(this)
+            if(!$(this).hasClass('expanded')) {
+               setTimeout(function(){
+                    _this.find('ul').attr("style","")
+               }, 300);
+              
+            } else {
+                $('.has-sub ul').each(function(id,ele){
+                    var _that = $(this)
+                    if(_this.find('ul')[0] != ele) {
+                        setTimeout(function(){
+                            _that.attr("style","")
+                        }, 300);
+                    }
+                })
+            }
+        })
+        
+        // 侧边栏收缩/展开时调整卡片布局
+        $('.user-info-menu .hidden-xs').click(function(){
+            var col_width = $('.col-md-3').width();
+            var row_width = $('.row').width();
+            var percentage = ((col_width + 30) / row_width).toFixed(2);
+            if($('.sidebar-menu').hasClass('collapsed')) {
+                $('.has-sub.expanded > ul').attr("style","")
+                // 缩小菜单栏 卡片列数+1
+                 switch (percentage){
+                    case '0.33': 
+                        $(".col-md-3").css("width", "25%");
+                        break;
+                    case '0.25': 
+                        $(".col-md-3").css("width", "20%");
+                        break;
+                    case '0.20': 
+                        $(".col-md-3").css("width", "16.666%");
+                        break;
+                    case '0.17': 
+                        $(".col-md-3").css("width", "14.286%");
+                        break;                        
+                }
+                // 缩小菜单栏 卡片列数+1 END
+            } else {
+                $('.has-sub.expanded > ul').show()
+                // 展开菜单栏 卡片列数-1
+                switch (percentage){
+                    case '0.25': 
+                        $(".col-md-3").css("width", "33.333%");
+                        break;
+                    case '0.20': 
+                        $(".col-md-3").css("width", "25%");
+                        break;
+                    case '0.17': 
+                        $(".col-md-3").css("width", "20%");
+                        break;
+                    case '0.14': 
+                        $(".col-md-3").css("width", "16.666%");
+                        break;                                                 
+                }
+                // 展开菜单栏 卡片列数-1 END
+            }
+        })
+        
+        // 菜单项点击高亮处理
+        $("#main-menu li ul li").click(function() {
+            $(this).siblings('li').removeClass('active'); // 删除其他兄弟元素的样式
+            $(this).addClass('active'); // 添加当前元素的样式
+        });
+        
+        // 平滑滚动处理
+        $("a.smooth").click(function(ev) {
+            ev.preventDefault();
+            if($("#main-menu").hasClass('mobile-is-visible') != true)
+                return;
+            public_vars.$mainMenu.add(public_vars.$sidebarProfile).toggleClass('mobile-is-visible');
+            ps_destroy();
+            $("html, body").animate({
+                scrollTop: $($(this).attr("href")).offset().top - 80
+            }, {
+                duration: 500,
+                easing: "swing"
+            });
+        });
+        return false;
+    });
+
+    // 点击分类跳转处理
+    var href = "";
+    var pos = 0;
+    $("a.smooth").click(function(e) {
+        e.preventDefault();
+        if($("#main-menu").hasClass('mobile-is-visible') === true)
+            return;
+        $("#main-menu li").each(function() {
+            $(this).removeClass("active");
+        });
+        $(this).parent("li").addClass("active");
+        href = $(this).attr("href");
+        pos = $(href).position().top - 100;
+        $("html,body").animate({
+            scrollTop: pos
+        }, 500);
+    });
+</script>
+<!-- 外部JS库引入 -->
+<script type='text/javascript' src='./js/bootstrap.min.js?ver=3.4.1'></script>
+<script type='text/javascript' src='./js/TweenMax.min.js?ver=1.13.1'></script>
+<script type='text/javascript' src='./js/nav.js?ver=2.0.0'></script>
+<script type='text/javascript' src='./js/lazyload.min.js?ver=2.0.0'></script>
+<!-- 不蒜子访问统计 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- 拼音搜索支持 -->
+{{ if .Site.Params.pinyin.enable }}<script src="https://cdn.jsdelivr.net/npm/pinyin-pro@3.19.0/dist/index.js"></script>{{ end }}
+<!-- 本地搜索功能 -->
+<script type='text/javascript' src='./js/local-search.js'></script>
+</body>
+</html>

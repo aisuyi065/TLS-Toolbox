@@ -1,0 +1,663 @@
+---
+
+- taxonomy: 常用工具推荐
+  icon: fa-star
+  links: 
+        - title: 驼铃电商知识库
+          logo: images/logos/tlslogo.jpg
+          url: https://fbjvryq00y.feishu.cn/docx/doxcnoAkUCQ27nY31F2PU9bTNPW?from=from_copylink
+          description: 电商知识，从新手到高手
+        - title: 驼铃电商黑科技
+          logo: images/logos/tlslogo.jpg
+          url: https://fbjvryq00y.feishu.cn/docx/doxcnoAkUCQ27nY31F2PU9bTNPW#doxcnLcm9ZsvM68CWncjGvs7Wfb
+          description: 品退、差评方法等等
+        - title: 驼铃社电商礼品网
+          logo: images/logos/tlslogo.jpg
+          url: https://tb.88daifa.com/
+          description: 优质礼品资源，满足需求
+        - title: 驼铃补单计算器
+          logo: images/logos/tlslogo.jpg
+          url: pages/budan.html
+          description: 计算补单数量，提升指标
+        - title: 驼铃千川计算器
+          logo: images/logos/tlslogo.jpg
+          url: pages/roi.html
+          description: 计算出价，提升投放效果
+        - title: 驼铃直播中控工具
+          logo: images/logos/tlslogo.jpg
+          url: https://fbjvryq00y.feishu.cn/drive/folder/K7zIfP4IOlI5PxdberKcNgqOnCc?from=from_copylink
+          description: 自动弹窗、自动发言等
+        - title: 直播间录制工具
+          logo: images/logos/tlslogo.jpg
+          url: https://fbjvryq00y.feishu.cn/drive/folder/Y0BTfqMWoleXphdT1cNci3fDnUg?from=from_copylink
+          description: 批量录制、自动转码等
+        - title: AuTox视频搬运
+          logo: images/logos/tlslogo.jpg
+          url: https://fbjvryq00y.feishu.cn/drive/folder/LeM2f5tuZlbF3GdeKV9cYqGlnke?from=from_copylink
+          description: 视频一键搬运发布
+        - title: 驼铃规则中心
+          logo: images/logos/tlslogo.jpg
+          url: pages/rules.html
+          description: 集合多平台规则中心
+        - title: TuolingTV - 观影
+          logo: images/logos/tlslogo.jpg
+          url: https://tv.199908.top/
+          description: 免费影视资源，无需注册
+
+
+- taxonomy: 电商平台入驻
+  icon: fa-shopping-cart
+  links:
+        - title: 抖音小店
+          logo: images/Store settled in/doudian.jpg
+          url: https://fxg.jinritemai.com/
+          description: 抖音小店申请入驻
+        - title: 视频号小店
+          logo: images/Store settled in/shipinhao.jpg
+          url: https://channels.weixin.qq.com/shop
+          description: 腾讯视频号小店入驻
+        - title: 快手小店
+          logo: images/Store settled in/kuaiyu.jpg
+          url: https://www.kwaixiaodian.com/
+          description: 快手小店入驻
+        - title: 小红书店铺
+          logo: images/Store settled in/xiaohongshu.jpg
+          url: https://ark.xiaohongshu.com/merchant/login
+          description: 小红书商家入驻
+        - title: 天猫入驻
+          logo: images/Store settled in/tianmao.jpg
+          url: https://zhaoshang.tmall.com/
+          description: 天猫入驻
+        - title: 京东入驻
+          logo: images/Store settled in/jingdong.png
+          url: https://zhaoshang.jd.com/index/home
+          description: 京东入驻
+        - title: 拼多多入驻
+          logo: images/Store settled in/pinduoduo.jpg
+          url: https://ims.pinduoduo.com/
+          description: 拼多多入驻
+        - title: 淘宝入驻
+          logo: images/Store settled in/taobao.png
+          url: https://ishop.taobao.com/openshop/tb_open_shop_landing.htm#/
+          description: 淘宝店铺入驻
+        - title: Amazon
+          logo: images/logos/amazon.png
+          url: https://www.amzon.com?from=maijia123.com/ai
+          description: 全球电商巨头
+        - title: Shopify
+          logo: images/logos/shopify.png
+          url: https://www.shopify.com/?from=maijia123.com/ai
+          description: 最大的独立站建站平台
+        - title: AliExpress
+          logo: images/logos/aliexpress.png
+          url: https://www.aliexpress.com/?from=maijia123.com/ai
+          description: 阿里巴巴旗下的跨境电商平台
+
+- taxonomy: 商家后台软件
+  icon: fa-shopping-cart
+  links:
+        - title: 抖店
+          logo: images/Merchant background/doudian.jpg
+          url: https://im.jinritemai.com/
+          description: 抖音商家工具
+        - title: 千牛
+          logo: images/Merchant background/qianniu.jpg
+          url: https://loginmyseller.taobao.com/
+          description: 淘宝商家工具
+        - title: 快手
+          logo: images/Merchant background/kuiayu.jpg
+          url: https://login.kwaixiaodian.com/
+          description: 快手商家工具
+        - title: 京麦
+          logo: images/Merchant background/jingmai.jpg
+          url: https://passport.shop.jd.com/login/index.action/jdm
+          description: 京东商家工具
+        - title: 视频号
+          logo: images/Merchant background/shipinhao.jpg
+          url: https://store.weixin.qq.com/
+          description: 视频号商家工具
+        - title: 千帆
+          logo: images/Merchant background/xhs sahngjia.jpg
+          url: https://customer.xiaohongshu.com/login?service=https://ark.xiaohongshu.com/app-system/home
+          description: 小红书商家工具
+        - title: 抖音企业号
+          logo: images/Merchant background/douyinqiyehao.png
+          url: https://e.douyin.com/
+          description: 抖音企业号数据管理
+
+
+- taxonomy: 电商辅助工具
+  icon: fa-shopping-cart
+  links:
+        - title: 指纹浏览器
+          logo: images/E-commerce plug-in/zhiwenliulanqi.png
+          url: https://virtualbrowser.cc/
+          description: 多店铺电商卖家必备，隔离ip
+        - title: 哈士奇
+          logo: images/E-commerce plug-in/Hashiqi.jpg
+          url: https://hsq.dangxun.com/
+          description: 多平台电商运营插件
+        - title: 至尊宝
+          logo: images/E-commerce plug-in/zhizunbao(192.168.1.100).jpg
+          url: https://zzbtool.com/index.html
+          description: 多平台电商运营插件
+        - title: 山海云端短视频解析
+          logo: images/logos/tlslogo.jpg
+          url: https://api.yyy001.com/tools/demo-videoparse.html#
+          description: 多平台视频解析下载
+        - title: Best视频下载器
+          logo: images/E-commerce plug-in/Best Video.png
+          url: https://www.bestvideow.com/
+          description: 多平台视频解析下载
+        - title: 猫爪
+          logo: images/logos/tlslogo.jpg
+          url: https://cat-catch.bmmmd.com/
+          description: 网页视频嗅探与下载插件
+        - title: 社媒助手
+          logo: images/E-commerce plug-in/shemeizhushou.png
+          url: https://smc.iszhouhua.com/
+          description: 多平台数据采集插件
+        - title: Fatkun图片下载
+          logo: images/E-commerce plug-in/Fatkun.webp
+          url: https://www.fatkun.net/zh-CN/download
+          description: Fatkun图片下载插件
+        - title: 达连
+          logo: images/E-commerce plug-in/dalian.png
+          url: https://tool.kollink.net/
+          description: TikTok达人邀约插件
+        - title: 灵邀AI
+          logo: images/E-commerce plug-in/Lingyao AI.jpg
+          url: https://limob.cn/
+          description: 抖音微信达人邀约软件
+        - title: 淘宝光合平台
+          logo: images/logos/tlslogo.jpg
+          url: https://creator.guanghe.taobao.com/?from=maijia123.com/ai
+          description: 淘宝内容创作平台
+        - title: 体检中心
+          logo: images/logos/tlslogo.jpg
+          url: https://healthcenter.taobao.com/home/health_home.htm?from=maijia123.com/ai
+          description: 淘宝店铺体检工具
+        - title: 淘商机
+          logo: images/logos/tlslogo.jpg
+          url: https://qn.taobao.com/home.htm/trend-product-operation?from=maijia123.com/ai
+          description: 淘宝商机发现工具
+        - title: 原创保护
+          logo: images/logos/tlslogo.jpg
+          url: https://yc.alibaba.com/?from=maijia123.com/ai
+          description: 阿里巴巴原创保护平台
+        - title: 阿里妈妈创意中心
+          logo: images/logos/tlslogo.jpg
+          url: https://chuangyi.taobao.com/?from=maijia123.com/ai
+          description: 阿里妈妈创意资源中心
+        - title: 阿里创作平台
+          logo: images/logos/tlslogo.jpg
+          url: https://we.taobao.com/?from=maijia123.com/ai
+          description: 阿里内容创作平台
+        - title: 巨量创意
+          logo: images/logos/oceanengine.png
+          url: https://cc.oceanengine.com/
+          description: 激发创意灵感
+        - title: 生意参谋
+          logo: images/logos/tlslogo.jpg
+          url: https://sycm.taobao.com/?from=maijia123.com/ai
+          description: 淘宝数据分析工具
+        - title: 营销活动中心
+          logo: images/logos/tlslogo.jpg
+          url: https://sale.tmall.com/sale/seller/homepage.htm?from=maijia123.com/ai
+          description: 淘宝营销活动管理
+        - title: 淘宝买家隐私保护
+          logo: images/logos/tlslogo.jpg
+          url: https://myseller.taobao.com/home.htm/merchant-intimity-console/?from=maijia123.com/ai
+          description: 淘宝买家隐私保护设置
+        - title: 淘宝光合平台
+          logo: images/logos/tlslogo.jpg
+          url: https://creator.guanghe.taobao.com/?from=maijia123.com/ai
+          description: 淘宝内容创作平台
+        - title: 字体违规检测
+          logo: images/logos/tlslogo.jpg
+          url: https://banquan.taobao.com/font/home?from=maijia123.com/ai
+          description: 淘宝字体违规检测工具
+        - title: 体检中心
+          logo: images/logos/tlslogo.jpg
+          url: https://healthcenter.taobao.com/home/health_home.htm?from=maijia123.com/ai
+          description: 淘宝店铺体检工具
+
+
+- taxonomy: 广告投放平台
+  icon: fa-shopping-cart
+  links:
+        - title: 直通车
+          logo: images/Advertising/taobaoggongju.png
+          url: https://subway.simba.taobao.com/?from=maijia123.com/ai
+          description: 淘宝推广工具
+        - title: 引力魔方
+          logo: images/Advertising/taobaoggongju.png
+          url: https://tuijian.taobao.com/?from=maijia123.com/ai
+          description: 淘宝推广工具
+        - title: 淘宝联盟
+          logo: images/Advertising/taobaolianmeng.jpg
+          url: https://pub.alimama.com/?from=maijia123.com/ai
+          description: 淘宝联盟推广平台
+        - title: 万相台
+          logo: images/Advertising/taobaoggongju.png
+          url: https://adbrain.taobao.com/?from=maijia123.com/ai
+          description: 淘宝广告投放平台
+        - title: 品销宝
+          logo: images/Advertising/pinxiaobao.png
+          url: https://branding.taobao.com/?from=maijia123.com/ai
+          description: 淘宝品牌推广工具
+        - title: 巨量引擎
+          logo: images/Advertising/juliangyinqing.png
+          url: https://www.oceanengine.com/
+          description: 抖音所有类型广告
+        - title: 巨量千川
+          logo: images/Advertising/juliangqianchuan.png
+          url: https://qianchuan.jinritemai.com/
+          description: 抖音广告投放平台
+        - title: 磁力引擎
+          logo: images/Advertising/ciliyinqing.png
+          url: https://e.kuaishou.com/
+          description: 快手开屏、信息流、粉条
+        - title: 磁力智投
+          logo: images/Advertising/cilizhitou.png
+          url: https://ad.e.kuaishou.com/
+          description: 快手广告投放平台
+        - title: 聚光平台
+          logo: images/Advertising/juguang.jpg
+          url: https://ad.xiaohongshu.com/
+          description: 小红书广告投放平台
+        - title: 诸葛智投
+          logo: images/Advertising/zhugezhitou.png
+          url: https://zgzt.v-ma.com/#/
+          description: 视频号投放管理工具
+        - title: 小火龙
+          logo: images/Advertising/xiaohuolong.png
+          url: http://www.xiaohuolong.com
+          description: 抖音随心推投放工具
+
+
+- taxonomy: 数据分析平台
+  icon: fa-shopping-cart
+  links:
+        - title: 生意参谋
+          logo: images/Data analysis/shengyicanmou.png
+          url: https://sycm.taobao.com/?from=maijia123.com/ai
+          description: 淘宝数据分析工具
+        - title: 蝉妈妈
+          logo: images/Data analysis/chanmama.jpg
+          url: http://www.chanmama.com
+          description: 抖音直播数据、选品平台
+        - title: 考古加
+          logo: images/Data analysis/kaogujia.jpg
+          url: https://www.kaogujia.com/
+          description: 专业数据服务平台
+        - title: 有米有数
+          logo: images/Data analysis/youmiyoushu.png
+          url: https://youshu.youcloud.com/
+          description: 广告投放数据分析工具
+        - title: 巨量算数
+          logo: images/Data analysis/juliangsuanshu.svg
+          url: https://trendinsight.oceanengine.com/
+          description: 抖音官方大数据平台
+        - title: 灰豚数据-抖音
+          logo: images/Data analysis/huitun.jpg
+          url: https://dy.huitun.com/
+          description: 灰豚数据抖音
+        - title: 灰豚数据-快手
+          logo: images/Data analysis/huitun.jpg
+          url: https://ks.huitun.com/
+          description: 灰豚数据快手版
+        - title: 大淘客
+          logo: images/Data analysis/dataoke.jpg
+          url: http://www.dataoke.com
+          description: 淘客选品平台
+        - title: 米选
+          logo: images/Data analysis/mixuan.png
+          url: https://mixuan.com/
+          description: 飞瓜旗下选品平台
+        - title: 抖查查
+          logo: images/Data analysis/douchacha.jpg
+          url: https://www.douchacha.com/
+          description: 数据、达人与选品平台
+        - title: 抖音官方选品工具
+          logo: images/Data analysis/douyin.jpg
+          url: https://bytedance.feishu.cn/docx/FCCxdKMarouWw3xrR87cNKeRn3b
+          description: 抖音官方选品工具
+        - title: 抖老板带货助手
+          logo: images/Data analysis/feigua.jpg
+          url: https://zs.doulaoban.com/login
+          description: 多平台数据管理
+
+
+- taxonomy: 视频编辑工具
+  icon: fa-video
+  links:
+        - title: 剪映
+          logo: images/Video editing tools/jianying.png
+          url: https://www.capcut.cn/
+          description: 全能易用的视频剪辑软件
+        - title: 即梦AI
+          logo: images/Video editing tools/jimeng.png
+          url: https://jimeng.jianying.com/
+          description: 一站式AI视频创作平台
+        - title: Vidu
+          logo: images/Video editing tools/vidu.jpeg
+          url: https://www.vidu.cn/create
+          description: 一站式AI视频创作平台
+        - title: SkyReels Tutorial
+          logo: images/Video editing tools/skyreels.jpeg
+          url: https://www.skyreels.ai/
+          description: 一站式AI视频创作平台
+        - title: Viggle AI
+          logo: images/Video editing tools/viggle.jpeg
+          url: https://viggle.ai/app
+          description: 生成高质量、可控的动态视频
+        - title: 小白兔 AI
+          logo: images/Video editing tools/xiaobaitu.png
+          url: https://xiaobaituai.com/
+          description: 一站式AI视频创作软件
+        - title: 江湖工具箱
+          logo: images/Video editing tools/jianghugongjuxiang.png
+          url: https://www.jianghudata.com/
+          description: 电商多功能软件
+        - title: 红抖AI助手
+          logo: images/Video editing tools/hongdou.jpg
+          url: https://hd.jianliai.com/
+          description: 最全的AI创作工具箱
+        - title: 腾讯智影
+          logo: images/Video editing tools/zenvideo.png
+          url: https://zenvideo.qq.com/home
+          description: 腾讯AI智能创作平台
+        - title: 鬼手剪辑
+          logo: images/Video editing tools/guishoujianji.png
+          url: https://jollytoday.com/index/cn
+          description: 硬字幕翻译、视频去字幕
+        - title: 闪电配音
+          logo: images/Video editing tools/shandianpeiyin.png
+          url: https://www.soundems.com/
+          description: 配音平台
+        - title: 微软文本转语音
+          logo: images/Video editing tools/Azure AI.png
+          url: https://azure.microsoft.com/zh-cn/products/ai-services/text-to-speech/
+          description: 微软文本转语音
+        - title: 讯飞智作
+          logo: images/Video editing tools/xunfeizhizuo.png
+          url: https://peiyin.xunfei.cn/
+          description: 讯飞AI配音
+        - title: 即时工具
+          logo: images/Video editing tools/jishi.png
+          url: https://www.67tool.com/
+          description: 视频、图片处理工具箱
+        - title: 直播片段生成器
+          logo: images/logos/tlslogo.jpg
+          url: https://chuangyi.taobao.com/external/liveVideoClipper?from=maijia123.com/ai
+          description: 淘宝直播片段生成工具
+        - title: 短视频混剪工具
+          logo: images/logos/tlslogo.jpg
+          url: https://chuangyi.taobao.com/external/meditorMix?from=maijia123.com/ai
+          description: 淘宝短视频混剪工具
+
+
+- taxonomy: 直播辅助软件
+  icon: fa-video
+  links:
+        - title: 驼铃直播中控工具
+          logo: images/logos/tlslogo.jpg
+          url: https://fbjvryq00y.feishu.cn/drive/folder/K7zIfP4IOlI5PxdberKcNgqOnCc?from=from_copylink
+          description: 自动弹窗、自动发言等
+        - title: 抖音直播伴侣
+          logo: images/Live broadcast software/douyinzhibobanlv.jpg
+          url: https://streamingtool.douyin.com/
+          description: 抖音、火山官方直播工具
+        - title: 快手直播伴侣
+          logo: images/Live broadcast software/kuaishouzhibobanlv.png
+          url: https://live.kuaishou.com/live-partner
+          description: 快手平台直播软件
+        - title: 小红书直播助手
+          logo: images/Live broadcast software/xiaohongshu.jpg
+          url: https://www.xiaohongshu.com/zhibo/robs
+          description: 小红书电脑直播助手
+        - title: OBS
+          logo: images/Live broadcast software/obs.png
+          url: https://obsproject.com/
+          description: 多平台直播推流工具
+        - title: StreamCap
+          logo: images/Live broadcast software/StreamCap.jpg
+          url: https://fbjvryq00y.feishu.cn/drive/folder/Y0BTfqMWoleXphdT1cNci3fDnUg?from=from_copylink
+          description: 多平台直播录屏软件
+
+
+- taxonomy: 设计软件工具
+  icon: fa-palette
+  links:
+        - title: photoshop
+          url: https://www.adobe.com/cn/products/photoshop.html
+          logo: images/logos/photoshop.png
+          description: Photoshop不需要解释
+        - title: Affinity Designer
+          url: https://affinity.serif.com/
+          logo: images/logos/AffinityDesigner.png
+          description: 专业创意软件
+        - title: Illustrator
+          url: https://www.adobe.com/cn/products/illustrator/
+          logo: images/logos/Illustrator.png
+          description: 矢量图形和插图
+        - title: indesign
+          url: http://www.adobe.com/cn/products/indesign.html
+          logo: images/logos/INDESIGN .png
+          description: 页面设计、布局和出版
+        - title: cinema-4d
+          url: https://www.maxon.net/en/products/cinema-4d/overview/
+          logo: images/logos/cinema4d.png
+          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free
+        - title: 3ds-max
+          url: https://www.autodesk.com/products/3ds-max/overview
+          logo: images/logos/3dsmax.png
+          description: 3D modeling, animation, and rendering software
+        - title: Blender
+          url: https://www.blender.org/
+          logo: images/logos/blender.png
+          description: Blender is the free and open source 3D creation suite
+
+
+- taxonomy: 图文设计工具
+  icon: fa-palette
+  links:
+        - title: 稿定
+          logo: images/logos/gaoding.png
+          url: https://www.gaoding.com/
+          description: 在线制图
+        - title: 创客贴
+          logo: images/logos/eico.png
+          url: https://www.chuangkit.com/
+          description: 在线制图
+        - title: 佐糖-AI在线抠图
+          logo: images/logos/picwish.png
+          url: https://picwish.cn/
+          description: AI在线抠图
+        - title: 懒设计
+          logo: images/logos/fotor.png
+          url: https://www.fotor.com.cn/
+          description: 在线设计网站
+        - title: 花瓣网
+          logo: images/logos/huaban.png
+          url: https://huaban.com/
+          description: 图片素材
+        - title: freepik
+          logo: images/logos/freepik.png
+          url: https://www.freepik.com/
+          description: More than a million free vectors, PSD, photos and free icons
+        - title: 千图网
+          logo: images/logos/qiantu.png
+          url: http://www.58pic.com/
+          description: 专注免费设计素材下载的网站
+        - title: 千库网
+          logo: images/logos/qianku.png
+          url: http://588ku.com/
+          description: 免费png图片背景素材下载
+        - title: 我图网
+          logo: images/logos/wotu.png
+          url: http://www.ooopic.com/
+          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
+        - title: 90设计
+          logo: images/logos/90sheji.png
+          url: http://90sheji.com/
+          description: 电商设计（淘宝美工）千图免费淘宝素材库
+        - title: 昵图网
+          logo: images/logos/nipic.png
+          url: http://www.nipic.com/
+          description: 原创素材共享平台
+        - title: 懒人图库
+          logo: images/logos/lanrentuku.png
+          url: http://www.lanrentuku.com/
+          description: 懒人图库专注于提供网页素材下载
+        - title: Unsplash
+          url: https://unsplash.com/
+          logo: images/logos/unsplash.png
+          description: Beautiful, free photos
+        - title: librestock
+          url: https://librestock.com/
+          logo: images/logos/librestock.png
+          description: 65,084 high quality do-what-ever-you-want stock photos
+        - title: pixabay
+          url: https://pixabay.com/
+          logo: images/logos/pixabay.png
+          description: 可在任何地方使用的免费图片和视频
+        - title: tinypng
+          url: https://tinypng.com/
+          logo: images/logos/tinypng.png
+          description: Optimize your images with a perfect balance in quality and file size
+        - title: goqr
+          url: http://goqr.me/
+          logo: images/logos/goqr.png
+          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
+        - title: ezgif
+          url: https://ezgif.com
+          logo: images/logos/Ezgif.png
+          description: simple online GIF maker and toolset for basic animated GIF editing
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: images/logos/svgomg.png
+          description: SVG在线压缩平台
+        - title: adobe色卡
+          logo: images/logos/AdobeColorCC.png
+          url: https://color.adobe.com/zh/create/color-wheel
+          description: adobe色卡
+        - title: 配色网站
+          logo: images/logos/colorhunt.png
+          url: https://colordrop.io/
+          description: 配色网站  
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: images/logos/officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: images/logos/ypppt.png
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
+        - title: tretars
+          url: http://www.tretars.com/ppt-templates
+          logo: images/logos/tretars.png
+          description: The best free Mockups from the Web
+        - title: 5百丁
+          url: http://ppt.500d.me/
+          logo: images/logos/500d.png
+          description: 中国领先的PPT模板共享平台
+
+
+- taxonomy: 图标字体资源
+  icon: fa-palette
+  links:
+        - title: iconfont
+          logo: images/logos/iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库
+        - title: Iconfinder
+          logo: images/logos/Iconfinder.png
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons
+        - title: iconmonstr
+          logo: images/logos/iconmonstr.png
+          url: https://iconmonstr.com/
+          description: Free simple icons for your next project
+        - title: Icon Archive
+          logo: images/logos/iconarchive.png
+          url: http://www.iconarchive.com/
+          description: Search 590,912 free icons
+        - title: FindIcons
+          logo: images/logos/FindIcons.png
+          url: https://findicons.com/
+          description: Search through 300,000 free icons
+        - title: IcoMoonApp
+          logo: images/logos/IcoMoonApp.png
+          url: https://icomoon.io/app/
+          description: Icon Font, SVG, PDF & PNG Generator
+        - title: easyicon
+          logo: images/logos/easyicon.png
+          url: http://www.easyicon.net/
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+        - title: flaticon
+          logo: images/logos/flaticon.png
+          url: https://www.flaticon.com/
+          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format
+        - title: UICloud
+          logo: images/logos/UICloud.png
+          url: http://ui-cloud.com/
+          description: The largest user interface design database in the world
+        - title: Material icons
+          logo: images/logos/Materialicons.png
+          url: https://material.io/icons/
+          description: Access over 900 material system icons
+        - title: Font Awesome Icon
+          logo: images/logos/fontawesomeicon.png
+          url: https://fontawesome.com/icons/
+          description: The complete set of 675 icons in Font Awesome
+        - title: ion icons
+          logo: images/logos/ionicons.png
+          url: http://ionicons.com/
+          description: The premium icon font for Ionic Framework
+        - title: Simpleline Icons
+          logo: images/logos/simplelineicons.png
+          url: http://simplelineicons.com/
+          description: Simple line Icons pack
+        - title: Google Font
+          url: https://fonts.google.com/
+          logo: images/logos/googlefont.png
+          description: Making the web more beautiful, fast, and open through great typography
+        - title: Typekit
+          url: https://typekit.com/
+          logo: images/logos/typekit.png
+          description: Quality fonts from the world's best foundries
+        - title: 方正字库
+          url: http://www.foundertype.com/
+          logo: images/logos/Fondertype.png
+          description: 方正字库官方网站
+        - title: 字体传奇网
+          url: http://ziticq.com/
+          logo: images/logos/ziticq.png
+          description: 中国首个字体品牌设计师交流网
+        - title: 私藏字体
+          url: http://sicangziti.com/
+          logo: images/logos/sicangziti.png
+          description: 优质字体免费下载站
+        - title: Fontsquirrel
+          url: https://www.fontsquirrel.com/
+          logo: images/logos/fontsquirrel.png
+          description: FREE fonts for graphic designers
+        - title: Urban Fonts
+          url: https://www.urbanfonts.com/
+          logo: images/logos/UrbanFonts.png
+          description: Download Free Fonts and Free Dingbats
+        - title: Lost Type
+          url: http://www.losttype.com/
+          logo: images/logos/losttype.png
+          description: Lost Type is a Collaborative Digital Type Foundry
+        - title: FONTS2U
+          url: https://fonts2u.com/
+          logo: images/logos/fonts2u.png
+          description: Download free fonts for Windows and Macintosh
+        - title: Da Font
+          url: https://www.dafont.com/
+          logo: images/logos/dafont.png
+          description: Archive of freely downloadable fonts
+
