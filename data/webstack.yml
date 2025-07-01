@@ -432,31 +432,31 @@
   links:
         - title: photoshop
           url: https://www.adobe.com/cn/products/photoshop.html
-          logo: images/logos/photoshop.png
+          logo: images/design software/photoshop.png
           description: Photoshop不需要解释
         - title: Affinity Designer
           url: https://affinity.serif.com/
-          logo: images/logos/AffinityDesigner.png
+          logo: images/design software/AffinityDesigner.png
           description: 专业创意软件
         - title: Illustrator
           url: https://www.adobe.com/cn/products/illustrator/
-          logo: images/logos/Illustrator.png
+          logo: images/design software/Illustrator.png
           description: 矢量图形和插图
         - title: indesign
           url: http://www.adobe.com/cn/products/indesign.html
-          logo: images/logos/INDESIGN .png
+          logo: images/design software/INDESIGN .png
           description: 页面设计、布局和出版
         - title: cinema-4d
           url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: images/logos/cinema4d.png
+          logo: images/design software/cinema4d.png
           description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free
         - title: 3ds-max
           url: https://www.autodesk.com/products/3ds-max/overview
-          logo: images/logos/3dsmax.png
+          logo: images/design software/3dsmax.png
           description: 3D modeling, animation, and rendering software
         - title: Blender
           url: https://www.blender.org/
-          logo: images/logos/blender.png
+          logo: images/design software/blender.png
           description: Blender is the free and open source 3D creation suite
 
 
@@ -464,11 +464,11 @@
   icon: fa-palette
   links:
         - title: 稿定
-          logo: images/logos/gaoding.png
+          logo: images/graphic design/gaoding.png
           url: https://www.gaoding.com/
           description: 在线制图
         - title: 创客贴
-          logo: images/logos/eico.png
+          logo: images/graphic design/eico.png
           url: https://www.chuangkit.com/
           description: 在线制图
         - title: 佐糖-AI在线抠图
@@ -480,88 +480,88 @@
           url: https://www.fotor.com.cn/
           description: 在线设计网站
         - title: 花瓣网
-          logo: images/logos/huaban.png
+          logo: images/graphic design/huaban.png
           url: https://huaban.com/
           description: 图片素材
         - title: freepik
-          logo: images/logos/freepik.png
+          logo: images/graphic design/freepik.png
           url: https://www.freepik.com/
           description: More than a million free vectors, PSD, photos and free icons
         - title: 千图网
-          logo: images/logos/qiantu.png
+          logo: images/graphic design/qiantu.png
           url: http://www.58pic.com/
           description: 专注免费设计素材下载的网站
         - title: 千库网
-          logo: images/logos/qianku.png
+          logo: images/graphic design/qianku.png
           url: http://588ku.com/
           description: 免费png图片背景素材下载
         - title: 我图网
-          logo: images/logos/wotu.png
+          logo: images/graphic design/wotu.png
           url: http://www.ooopic.com/
           description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
         - title: 90设计
-          logo: images/logos/90sheji.png
+          logo: images/graphic design/90sheji.png
           url: http://90sheji.com/
           description: 电商设计（淘宝美工）千图免费淘宝素材库
         - title: 昵图网
-          logo: images/logos/nipic.png
+          logo: images/graphic design/nipic.png
           url: http://www.nipic.com/
           description: 原创素材共享平台
         - title: 懒人图库
-          logo: images/logos/lanrentuku.png
+          logo: images/graphic design/lanrentuku.png
           url: http://www.lanrentuku.com/
           description: 懒人图库专注于提供网页素材下载
         - title: Unsplash
           url: https://unsplash.com/
-          logo: images/logos/unsplash.png
+          logo: images/graphic design/unsplash.png
           description: Beautiful, free photos
         - title: librestock
           url: https://librestock.com/
-          logo: images/logos/librestock.png
+          logo: images/graphic design/librestock.png
           description: 65,084 high quality do-what-ever-you-want stock photos
         - title: pixabay
           url: https://pixabay.com/
-          logo: images/logos/pixabay.png
+          logo: images/graphic design/pixabay.png
           description: 可在任何地方使用的免费图片和视频
         - title: tinypng
           url: https://tinypng.com/
-          logo: images/logos/tinypng.png
+          logo: images/graphic design/tinypng.png
           description: Optimize your images with a perfect balance in quality and file size
         - title: goqr
           url: http://goqr.me/
-          logo: images/logos/goqr.png
+          logo: images/graphic design/goqr.png
           description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
         - title: ezgif
           url: https://ezgif.com
-          logo: images/logos/Ezgif.png
+          logo: images/graphic design/Ezgif.png
           description: simple online GIF maker and toolset for basic animated GIF editing
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
-          logo: images/logos/svgomg.png
+          logo: images/graphic design/svgomg.png
           description: SVG在线压缩平台
         - title: adobe色卡
-          logo: images/logos/AdobeColorCC.png
+          logo: images/graphic design/AdobeColorCC.png
           url: https://color.adobe.com/zh/create/color-wheel
           description: adobe色卡
         - title: 配色网站
-          logo: images/logos/colorhunt.png
+          logo: images/graphic design/colorhunt.png
           url: https://colordrop.io/
           description: 配色网站  
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
-          logo: images/logos/officeplus.png
+          logo: images/graphic design/officeplus.png
           description: OfficePLUS，微软Office官方在线模板网站！
         - title: 优品PPT
           url: http://www.ypppt.com/
-          logo: images/logos/ypppt.png
+          logo: images/graphic design/ypppt.png
           description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
         - title: tretars
           url: http://www.tretars.com/ppt-templates
-          logo: images/logos/tretars.png
+          logo: images/graphic design/tretars.png
           description: The best free Mockups from the Web
         - title: 5百丁
           url: http://ppt.500d.me/
-          logo: images/logos/500d.png
+          logo: images/graphic design/500d.png
           description: 中国领先的PPT模板共享平台
 
 
