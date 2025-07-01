@@ -569,95 +569,91 @@
   icon: fa-palette
   links:
         - title: iconfont
-          logo: images/logos/iconfont.png
+          logo: images/icon font/iconfont.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库
         - title: Iconfinder
-          logo: images/logos/Iconfinder.png
+          logo: images/icon font/Iconfinder.png
           url: https://www.iconfinder.com
           description: 2,100,000+ free and premium vector icons
         - title: iconmonstr
-          logo: images/logos/iconmonstr.png
+          logo: images/icon font/iconmonstr.png
           url: https://iconmonstr.com/
           description: Free simple icons for your next project
         - title: Icon Archive
-          logo: images/logos/iconarchive.png
+          logo: images/icon font/iconarchive.png
           url: http://www.iconarchive.com/
           description: Search 590,912 free icons
         - title: FindIcons
-          logo: images/logos/FindIcons.png
+          logo: images/icon font/FindIcons.png
           url: https://findicons.com/
           description: Search through 300,000 free icons
         - title: IcoMoonApp
-          logo: images/logos/IcoMoonApp.png
+          logo: images/icon font/IcoMoonApp.png
           url: https://icomoon.io/app/
           description: Icon Font, SVG, PDF & PNG Generator
-        - title: easyicon
-          logo: images/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
         - title: flaticon
-          logo: images/logos/flaticon.png
+          logo: images/icon font/flaticon.png
           url: https://www.flaticon.com/
           description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format
         - title: UICloud
-          logo: images/logos/UICloud.png
+          logo: images/icon font/UICloud.png
           url: http://ui-cloud.com/
           description: The largest user interface design database in the world
         - title: Material icons
-          logo: images/logos/Materialicons.png
+          logo: images/icon font/Materialicons.png
           url: https://material.io/icons/
           description: Access over 900 material system icons
         - title: Font Awesome Icon
-          logo: images/logos/fontawesomeicon.png
+          logo: images/icon font/fontawesomeicon.png
           url: https://fontawesome.com/icons/
           description: The complete set of 675 icons in Font Awesome
         - title: ion icons
-          logo: images/logos/ionicons.png
+          logo: images/icon font/ionicons.png
           url: http://ionicons.com/
           description: The premium icon font for Ionic Framework
         - title: Simpleline Icons
-          logo: images/logos/simplelineicons.png
+          logo: images/icon font/simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack
         - title: Google Font
           url: https://fonts.google.com/
-          logo: images/logos/googlefont.png
+          logo: images/icon font/googlefont.png
           description: Making the web more beautiful, fast, and open through great typography
         - title: Typekit
           url: https://typekit.com/
-          logo: images/logos/typekit.png
+          logo: images/icon font/typekit.png
           description: Quality fonts from the world's best foundries
         - title: 方正字库
           url: http://www.foundertype.com/
-          logo: images/logos/Fondertype.png
+          logo: images/icon font/Fondertype.png
           description: 方正字库官方网站
         - title: 字体传奇网
           url: http://ziticq.com/
-          logo: images/logos/ziticq.png
+          logo: images/icon font/ziticq.png
           description: 中国首个字体品牌设计师交流网
         - title: 私藏字体
           url: http://sicangziti.com/
-          logo: images/logos/sicangziti.png
+          logo: images/icon font/sicangziti.png
           description: 优质字体免费下载站
         - title: Fontsquirrel
           url: https://www.fontsquirrel.com/
-          logo: images/logos/fontsquirrel.png
+          logo: images/icon font/fontsquirrel.png
           description: FREE fonts for graphic designers
         - title: Urban Fonts
           url: https://www.urbanfonts.com/
-          logo: images/logos/UrbanFonts.png
+          logo: images/icon font/UrbanFonts.png
           description: Download Free Fonts and Free Dingbats
         - title: Lost Type
           url: http://www.losttype.com/
-          logo: images/logos/losttype.png
+          logo: images/icon font/losttype.png
           description: Lost Type is a Collaborative Digital Type Foundry
         - title: FONTS2U
           url: https://fonts2u.com/
-          logo: images/logos/fonts2u.png
+          logo: images/icon font/fonts2u.png
           description: Download free fonts for Windows and Macintosh
         - title: Da Font
           url: https://www.dafont.com/
-          logo: images/logos/dafont.png
+          logo: images/icon font/dafont.png
           description: Archive of freely downloadable fonts
 
