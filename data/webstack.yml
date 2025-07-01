@@ -69,7 +69,7 @@
           url: https://store.weixin.qq.com/
           description: 视频号商家工具
         - title: 拼多多
-          logo: images/Merchant background/pinduoduou.jpg
+          logo: images/Merchant background/pinduoduo.jpg
           url: https://mms.pinduoduo.com/other/downloadapp/
           description: 拼多多商家工具
         - title: 千帆
@@ -432,7 +432,7 @@
           url: http://www.chanmama.com
           description: 抖音直播数据、选品平台
         - title: 飞瓜
-          logo: images/Data analysis/feigua.png
+          logo: images/Data analysis/feigua.jpg
           url: https://www.feigua.com/
           description: 抖音直播数据、选品平台
         - title: 考古加
@@ -510,7 +510,7 @@
           url: https://www.gaoding.com/
           description: 在线制图
         - title: 创客贴
-          logo: images/graphic design/chaungke.png
+          logo: images/graphic design/chuangke.png
           url: https://www.chuangkit.com/
           description: 在线制图
         - title: 佐糖-AI在线抠图
