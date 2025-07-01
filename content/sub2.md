@@ -5,7 +5,7 @@ search: #搜索栏
   enable: false #true显示，false不显示
 edit: #在线编辑
   enable: false #true显示，false:不显示
-  url: https://github.com/TLS-802/TLS-Toolbox44/blob/main/content/sub1.md
+  url: https://github.com/TLS-802/TLS-Toolbox/blob/main/content/sub1.md
 
 data:
 
