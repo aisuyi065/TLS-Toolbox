@@ -138,11 +138,11 @@
           url: https://hsq.dangxun.com/
           description: 多平台电商运营插件
         - title: 至尊宝
-          logo: images/E-commerce plug-in/zhizunbao(192.168.1.100).jpg
+          logo: images/E-commerce plug-in/zhizunbao.jpg
           url: https://zzbtool.com/index.html
           description: 多平台电商运营插件
         - title: 山海云端短视频解析
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/shanhai.png
           url: https://api.yyy001.com/tools/demo-videoparse.html#
           description: 多平台视频解析下载
         - title: Best视频下载器
@@ -150,7 +150,7 @@
           url: https://www.bestvideow.com/
           description: 多平台视频解析下载
         - title: 猫爪
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/maozhua.jpg
           url: https://cat-catch.bmmmd.com/
           description: 网页视频嗅探与下载插件
         - title: 社媒助手
@@ -170,27 +170,27 @@
           url: https://limob.cn/
           description: 抖音微信达人邀约软件
         - title: 淘宝光合平台
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/taobao.png
           url: https://creator.guanghe.taobao.com/?from=maijia123.com/ai
           description: 淘宝内容创作平台
         - title: 体检中心
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/taobao.png
           url: https://healthcenter.taobao.com/home/health_home.htm?from=maijia123.com/ai
           description: 淘宝店铺体检工具
         - title: 淘商机
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/taobao.png
           url: https://qn.taobao.com/home.htm/trend-product-operation?from=maijia123.com/ai
           description: 淘宝商机发现工具
         - title: 原创保护
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/taobao.png
           url: https://yc.alibaba.com/?from=maijia123.com/ai
           description: 阿里巴巴原创保护平台
         - title: 阿里妈妈创意中心
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/taobao.png
           url: https://chuangyi.taobao.com/?from=maijia123.com/ai
           description: 阿里妈妈创意资源中心
         - title: 阿里创作平台
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/taobao.png
           url: https://we.taobao.com/?from=maijia123.com/ai
           description: 阿里内容创作平台
         - title: 巨量创意
@@ -206,11 +206,11 @@
           url: https://sale.tmall.com/sale/seller/homepage.htm?from=maijia123.com/ai
           description: 淘宝营销活动管理
         - title: 淘宝买家隐私保护
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/taobao.png
           url: https://myseller.taobao.com/home.htm/merchant-intimity-console/?from=maijia123.com/ai
           description: 淘宝买家隐私保护设置
         - title: 淘宝光合平台
-          logo: images/logos/tlslogo.jpg
+          logo: images/E-commerce plug-in/taobao.png
           url: https://creator.guanghe.taobao.com/?from=maijia123.com/ai
           description: 淘宝内容创作平台
         - title: 字体违规检测
