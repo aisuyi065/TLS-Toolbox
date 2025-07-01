@@ -4,52 +4,44 @@
   icon: fa-tools
   links: 
         - title: 驼铃电商知识库
-          logo: images/tlslogo.jpg
+          logo: images/logos/tlslogo.jpg
           url: https://fbjvryq00y.feishu.cn/docx/doxcnoAkUCQ27nY31F2PU9bTNPW?from=from_copylink
           description: 电商知识，从新手到高手
         - title: 驼铃电商黑科技
-          logo: images/tlslogo.jpg
+          logo: images/logos/tlslogo.jpg
           url: https://fbjvryq00y.feishu.cn/docx/doxcnoAkUCQ27nY31F2PU9bTNPW#doxcnLcm9ZsvM68CWncjGvs7Wfb
           description: 品退、差评方法等等
         - title: 驼铃社电商礼品网
-          logo: images/tlslogo.jpg
+          logo: images/logos/tlslogo.jpg
           url: https://tb.88daifa.com/
           description: 优质礼品资源，满足需求
         - title: 驼铃补单计算器
-          logo: images/tlslogo.jpg
+          logo: images/logos/tlslogo.jpg
           url: pages/budan.html
           description: 计算补单数量，提升指标
         - title: 驼铃千川计算器
-          logo: images/tlslogo.jpg
+          logo: images/logos/tlslogo.jpg
           url: pages/roi.html
           description: 计算出价，提升投放效果
         - title: 驼铃直播中控工具
-          logo: images/tlslogo.jpg
+          logo: images/logos/tlslogo.jpg
           url: https://fbjvryq00y.feishu.cn/drive/folder/K7zIfP4IOlI5PxdberKcNgqOnCc?from=from_copylink
           description: 自动弹窗、自动发言等
         - title: 直播间录制工具
-          logo: images/tlslogo.jpg
+          logo: images/logos/tlslogo.jpg
           url: https://fbjvryq00y.feishu.cn/drive/folder/Y0BTfqMWoleXphdT1cNci3fDnUg?from=from_copylink
           description: 批量录制、自动转码等
         - title: AuTox视频搬运
-          logo: images/tlslogo.jpg
+          logo: images/logos/tlslogo.jpg
           url: https://fbjvryq00y.feishu.cn/drive/folder/LeM2f5tuZlbF3GdeKV9cYqGlnke?from=from_copylink
           description: 视频一键搬运发布
         - title: 驼铃规则中心
-          logo: images/tlslogo.jpg
+          logo: images/logos/tlslogo.jpg
           url: pages/rules.html
           description: 集合多平台规则中心
         - title: TuolingTV - 观影
-          logo: images/tlslogo.jpg
-          url: https://tv1.199908.top/
-          description: 免费影视资源，无需注册
-          - title: TuolingTV - 观影
-          logo: images/tlslogo.jpg
-          url: https://tv2.199908.top/
-          description: 免费影视资源，无需注册
-          - title: TuolingTV - 观影
-          logo: images/tlslogo.jpg
-          url: https://tv3.199908.top/
+          logo: images/logos/tlslogo.jpg
+          url: https://tv.199908.top/
           description: 免费影视资源，无需注册
 
 
@@ -77,7 +69,7 @@
           url: https://store.weixin.qq.com/
           description: 视频号商家工具
         - title: 拼多多
-          logo: images/Merchant background/pinduoduo.jpg
+          logo: images/Merchant background/pinduoduou.jpg
           url: https://mms.pinduoduo.com/other/downloadapp/
           description: 拼多多商家工具
         - title: 千帆
@@ -707,4 +699,3 @@
           logo: images/icon font/dafont.png
           description: Archive of freely downloadable fonts
 
----
