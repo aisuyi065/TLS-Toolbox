@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: 常用工具推荐
+- taxonomy: 常用工具
   icon: fa-star
   links: 
         - title: 驼铃电商知识库
@@ -45,7 +45,7 @@
           description: 免费影视资源，无需注册
 
 
-- taxonomy: 电商平台入驻
+- taxonomy: 电商入驻
   icon: fa-shopping-cart
   links:
         - title: 抖音小店
@@ -93,7 +93,7 @@
           url: https://www.aliexpress.com/?from=maijia123.com/ai
           description: 阿里巴巴旗下的跨境电商平台
 
-- taxonomy: 商家后台软件
+- taxonomy: 商家软件
   icon: fa-shopping-cart
   links:
         - title: 抖店
@@ -126,7 +126,7 @@
           description: 抖音企业号数据管理
 
 
-- taxonomy: 电商辅助工具
+- taxonomy: 电商辅助
   icon: fa-shopping-cart
   links:
         - title: 指纹浏览器
@@ -199,7 +199,7 @@
           description: 阿里内容创作平台
 
 
-- taxonomy: 广告投放平台
+- taxonomy: 广告投放
   icon: fa-shopping-cart
   links:
         - title: 直通车
@@ -252,7 +252,7 @@
           description: 抖音随心推投放工具
 
 
-- taxonomy: 数据分析平台
+- taxonomy: 数据分析
   icon: fa-shopping-cart
   links:
         - title: 生意参谋
@@ -305,7 +305,7 @@
           description: 多平台数据管理
 
 
-- taxonomy: 视频编辑工具
+- taxonomy: 视频编辑
   icon: fa-video
   links:
         - title: 剪映
@@ -374,7 +374,7 @@
           description: 淘宝短视频混剪工具
 
 
-- taxonomy: 直播辅助软件
+- taxonomy: 直播辅助
   icon: fa-video
   links:
         - title: 驼铃直播中控工具
@@ -403,7 +403,7 @@
           description: 多平台直播录屏软件
 
 
-- taxonomy: 设计软件工具
+- taxonomy: 设计软件
   icon: fa-palette
   links:
         - title: photoshop
@@ -436,7 +436,7 @@
           description: Blender is the free and open source 3D creation suite
 
 
-- taxonomy: 图文设计工具
+- taxonomy: 图文设计
   icon: fa-palette
   links:
         - title: 稿定
@@ -541,7 +541,7 @@
           description: 中国领先的PPT模板共享平台
 
 
-- taxonomy: 图标字体资源
+- taxonomy: 图标字体
   icon: fa-palette
   links:
         - title: iconfont
