@@ -81,15 +81,15 @@
           url: https://ishop.taobao.com/openshop/tb_open_shop_landing.htm#/
           description: 淘宝店铺入驻
         - title: Amazon
-          logo: images/logos/amazon.png
+          logo: images/Store settled in/amazon.png
           url: https://www.amzon.com?from=maijia123.com/ai
           description: 全球电商巨头
         - title: Shopify
-          logo: images/logos/shopify.png
+          logo: images/Store settled in/shopify.png
           url: https://www.shopify.com/?from=maijia123.com/ai
           description: 最大的独立站建站平台
         - title: AliExpress
-          logo: images/logos/aliexpress.png
+          logo: images/Store settled in/aliexpress.png
           url: https://www.aliexpress.com/?from=maijia123.com/ai
           description: 阿里巴巴旗下的跨境电商平台
 
