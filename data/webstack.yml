@@ -389,11 +389,11 @@
           url: https://www.67tool.com/
           description: 视频、图片处理工具箱
         - title: 直播片段生成器
-          logo: images/logos/tlslogo.jpg
+          logo: images/Video editing tools/taobao.png
           url: https://chuangyi.taobao.com/external/liveVideoClipper?from=maijia123.com/ai
           description: 淘宝直播片段生成工具
         - title: 短视频混剪工具
-          logo: images/logos/tlslogo.jpg
+          logo: images/Video editing tools/taobao.png
           url: https://chuangyi.taobao.com/external/meditorMix?from=maijia123.com/ai
           description: 淘宝短视频混剪工具
 
@@ -402,7 +402,7 @@
   icon: fa-video
   links:
         - title: 驼铃直播中控工具
-          logo: images/logos/tlslogo.jpg
+          logo: images/Live broadcast software/zhibozhongkong.png
           url: https://fbjvryq00y.feishu.cn/drive/folder/K7zIfP4IOlI5PxdberKcNgqOnCc?from=from_copylink
           description: 自动弹窗、自动发言等
         - title: 抖音直播伴侣
