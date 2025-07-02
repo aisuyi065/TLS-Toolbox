@@ -16,38 +16,38 @@ data: #以下为导航链接内容
   icon: fa-star
   links: 
     - title: 抖店品退处理方法
-      logo: ../images/Store settled in/doudian.jpg
+      logo: ../images/Store settled in/doudian1.png
       url: https://fbjvryq00y.feishu.cn/docx/NGUmd1aXCoJkl3x5Dp2cgX2Dnkd
       description: 文档密码在精英商家群
     - title: 抖店差评处理方法
-      logo: ../images/Store settled in/doudian.jpg   
+      logo: ../images/Store settled in/doudian1.png   
       url: https://fbjvryq00y.feishu.cn/docx/VyLWdwiEVoKnpdxYhpZcFQQenkf
       description: 文档密码在精英商家群
     - title: 抖音登录跳核对方法
-      logo: ../images/Store settled in/doudian.jpg
+      logo: ../images/Store settled in/doudian1.png
       url: https://fbjvryq00y.feishu.cn/docx/Na7QdXuh1o7LyGx2J0McQ8m4nog
       description: 文档密码在精英商家群
     - title: 抖店100%好评方法
-      logo: ../images/Store settled in/doudian.jpg
+      logo: ../images/Store settled in/doudian1.png
       url: https://fbjvryq00y.feishu.cn/docx/W3WKdLaA8otGlxx1Zamcgsfvn2e
       description: 文档密码在精英商家群
     - title: 抖店改销量方法
-      logo: ../images/Store settled in/doudian.jpg
+      logo: ../images/Store settled in/doudian1.png
       url: https://fbjvryq00y.feishu.cn/docx/Bp5EdPb5Po2Sifx4RKCcNib0n8e
       description: 文档密码在精英商家群
     - title: 抖店强上精选方法
-      logo: ../images/Store settled in/doudian.jpg
+      logo: ../images/Store settled in/doudian1.png
       url: https://fbjvryq00y.feishu.cn/docx/Zy68dzATcoGCGexRmEMcJpO0nzf
       description: 文档密码在精英商家群
     - title: 抖音账号解封方法
-      logo: ../images/Store settled in/doudian.jpg
+      logo: ../images/Store settled in/doudian1.png
       url: https://fbjvryq00y.feishu.cn/docx/Vpf5d3xEYoqxGRxeuQIcYXb9n5d
       description: 文档密码在精英商家群
     - title: 订单查看买家联系方式
-      logo: ../images/Store settled in/doudian.jpg
+      logo: ../images/Store settled in/doudian1.png
       url: https://fbjvryq00y.feishu.cn/docx/FfL3dWSEiokrhIxjNwAc11WxnEb
     - title: 抖音账号改实名方法
-      logo: ../images/Store settled in/doudian.jpg
+      logo: ../images/Store settled in/doudian1.png
       url: https://fbjvryq00y.feishu.cn/docx/B6NcdsP08oHQJKx1LcEcjj3MnZf
 
 - taxonomy: 快手技术
@@ -89,27 +89,27 @@ data: #以下为导航链接内容
   icon: fa-download
   links: 
     - title: 直播间类型文档合集
-      logo: ../images/wendang.png
+      logo: ../images/wd.png
       url: https://fbjvryq00y.feishu.cn/drive/folder/LBL7fGd5HllQ1qdumK5cWvhEnCo
     - title: 合同类型文档合集
-      logo: ../images/wendang.png
+      logo: ../images/wd.png
       url: https://fbjvryq00y.feishu.cn/drive/folder/OOvnfI0XSl3Wadd4fXQcnsLxnsd
     - title: 100+行业话术合集
-      logo: ../images/wendang.png
+      logo: ../images/wd.png
       url: https://fbjvryq00y.feishu.cn/drive/folder/R8AefZyAPlPdMddDUnncu5dJn5c
     - title: 客服话术文档合集
-      logo: ../images/wendang.png
+      logo: ../images/wd.png
       url: https://fbjvryq00y.feishu.cn/drive/folder/EotKfO21AloHfrdltICcFqTzndf
     - title: 客服培训文档合集
-      logo: ../images/wendang.png
+      logo: ../images/wd.png
       url: https://fbjvryq00y.feishu.cn/drive/folder/YmLnfGpPGlK3U3dpzpJck2iAnSf
     - title: 岗位考核文档合集
-      logo: ../images/wendang.png
+      logo: ../images/wd.png
       url: https://fbjvryq00y.feishu.cn/drive/folder/F28SfIJ9clkAV3dw3ePcNaxHnte
     - title: 企业工资核算文档
-      logo: ../images/wendang.png
+      logo: ../images/wd.png
       url: https://fbjvryq00y.feishu.cn/file/R3ImbMJkloRjNExCYKHcxaGNnJf
     - title: 达人建联管理表
-      logo: ../images/wendang.png
+      logo: ../images/wd.png
       url: https://fbjvryq00y.feishu.cn/sheets/T2QesthozhprYStFwqvcdg5Nn2b
 ---

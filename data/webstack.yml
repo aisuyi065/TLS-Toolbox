@@ -49,7 +49,7 @@
   icon: fa-desktop
   links:
         - title: 抖店
-          logo: images/Merchant background/doudian.jpg
+          logo: images/Merchant background/doudian1.png
           url: https://im.jinritemai.com/
           description: 抖音商家工具
         - title: 千牛
@@ -273,7 +273,7 @@
   icon: fa-store
   links:
         - title: 抖音小店
-          logo: images/Store settled in/doudian.jpg
+          logo: images/Store settled in/doudian1.png
           url: https://fxg.jinritemai.com/
           description: 抖音小店申请入驻
         - title: 视频号小店
