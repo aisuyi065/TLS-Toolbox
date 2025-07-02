@@ -117,15 +117,15 @@ data: #以下为导航链接内容
   icon: fa-photo-video
   links:
         - title: 微信客服
-          logo: images/TLS/Wechat.jpg
+          logo: ../images/TLS/Wechat.jpg
           url: https://www.nodeimage.com/i/32451/KTcD1Tnp3WNR5XeGsc0yd3nSh4bLOEOx.png
         - title: 抖音客服
-          logo: images/TLS/douyin.jpg
+          logo: ../images/TLS/douyin.jpg
           url: https://v.douyin.com/OHq9e7844u8
         - title: 飞书客服
-          logo: images/TLS/feishu.jpg
+          logo: ../images/TLS/feishu.jpg
           url: https://www.nodeimage.com/i/32451/WqUooZnM3WNR5WkCsc0yRs9SO94tsAHz.png
         - title: Github
-          logo: images/TLS/github.jpg
+          logo: ../images/TLS/github.jpg
           url: https://github.com/TLS-802
 ---
