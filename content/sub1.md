@@ -13,7 +13,7 @@ edit: #在线编辑
 data: #以下为导航链接内容
 
 - taxonomy: 抖音技术
-  icon: fa-star
+  icon: fa-tiktok
   links: 
     - title: 抖店品退处理方法
       logo: ../images/Store settled in/doudian1.png
@@ -51,7 +51,7 @@ data: #以下为导航链接内容
       url: https://fbjvryq00y.feishu.cn/docx/B6NcdsP08oHQJKx1LcEcjj3MnZf
 
 - taxonomy: 快手技术
-  icon: fa-cloud
+  icon: fa-video-camera
   links: 
     - title: 快手品退方法
       logo: ../images/Store settled in/kuaishou.jpg
@@ -62,7 +62,7 @@ data: #以下为导航链接内容
       url: https://fbjvryq00y.feishu.cn/docx/PAXTduL1io9Mu8xULgtcPn3cn6d
 
 - taxonomy: 视频号技术
-  icon: fa-download
+  icon: fa-play-circle
   links: 
     - title: 视频号品退方法
       logo: ../images/Store settled in/shipinhao.jpg
@@ -70,7 +70,7 @@ data: #以下为导航链接内容
       description: 文档密码在精英商家群
 
 - taxonomy: 电商综合
-  icon: fa-download
+  icon: fa-shopping-cart
   links: 
     - title: 起诉材料包
       logo: ../images/E-commerce plug-in/douyin.jpg
@@ -85,8 +85,8 @@ data: #以下为导航链接内容
       logo: ../images/E-commerce plug-in/douyin.jpg
       url: https://fbjvryq00y.feishu.cn/docx/Lv4Pdi2FFo6E7Gx48txc2o8rnbd
 
-- taxonomy: 电商文档资料
-  icon: fa-download
+- taxonomy: 文档资料
+  icon: fa-file-text
   links: 
     - title: 直播间类型文档合集
       logo: ../images/wd.png
