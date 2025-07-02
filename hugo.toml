@@ -32,7 +32,7 @@ copyright = "TLS"
 [params.github]
   #true显示 false隐藏
   enable = true 
-  url = "https://github.com/TLS-802/TLS-Toolbox44"
+  url = "https://github.com/TLS-802/TLS-Toolbox"
   
 [permalinks]  
   404 = "/404.html"
@@ -41,3 +41,23 @@ copyright = "TLS"
 #拼音库体积337k，支持首字母匹配
 [params.pinyin]
   enable = true
+
+#侧边栏底部社交媒体链接
+[params.social]
+  enable = true
+  [[params.social.list]]
+    name = "GitHub"
+    url = "https://github.com"
+    icon = "fab fa-github"
+  [[params.social.list]]
+    name = "Telegram"
+    url = "https://t.me"
+    icon = "fab fa-telegram"
+  [[params.social.list]]
+    name = "Twitter"
+    url = "https://twitter.com"
+    icon = "fab fa-twitter"
+  [[params.social.list]]
+    name = "Steam"
+    url = "https://steam.com"
+    icon = "fab fa-steam"
