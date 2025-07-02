@@ -13,7 +13,7 @@ edit: #在线编辑
 data: #以下为导航链接内容
 
 - taxonomy: 抖音技术
-  icon: fa-tiktok
+  icon: fa-video-camera
   links: 
     - title: 抖店品退处理方法
       logo: ../images/Store settled in/doudian1.png
