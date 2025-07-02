@@ -712,7 +712,7 @@
           url: https://v.douyin.com/OHq9e7844u8
         - title: 飞书客服
           logo: images/TLS/feishu.jpg
-          qrcode: images/TLS/feishu.jpg
+          url: https://www.feishu.cn/invitation/page/add_contact/?token=154u7d8e-d426-4b6a-b4ec-75f7ff732522
         - title: Github
           logo: images/TLS/github.jpg
           url: https://github.com/TLS-802
