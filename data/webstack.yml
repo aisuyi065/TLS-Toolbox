@@ -699,3 +699,16 @@
           logo: images/icon font/dafont.png
           description: Archive of freely downloadable fonts
 
+
+- taxonomy: social
+  icon: fa-social
+  links:
+        - title: GitHub
+        url: https://github.com
+        icon: fab fa-github
+        - title: Telegram
+        url: https://t.me
+        icon: fab fa-telegram
+        - title: Twitter
+        url: https://twitter.com
+        icon: fab fa-twitter
