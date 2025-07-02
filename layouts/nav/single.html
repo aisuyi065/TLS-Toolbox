@@ -13,7 +13,11 @@
 <meta property="og:description" content="">
 <meta property="og:image" content="">
 <meta property="og:site_name" content="">
+{{ if .Params.favicon }}
+<link rel="shortcut icon" href="../{{ .Params.favicon }}">
+{{ else }}
 <link rel="shortcut icon" href="../images/favicon.png">
+{{ end }}
 <link rel="apple-touch-icon" href="../images/app-ico.png">
 <link rel='stylesheet' id='font-awesome-css'  href='../css/font-awesome.min.css?ver=6.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css'  href='../css/bootstrap.css?ver=3.4.1' type='text/css' media='all' />
@@ -28,11 +32,19 @@
                     <!-- logo -->
                     <div class="logo">
                         <a href="../" class="logo-expanded">
+                            {{ if .Params.logo }}
+                            <img src="../{{ .Params.logo }}" height="40" alt="" />
+                            {{ else }}
                             <img src="../images/logo.png" height="40" alt="" />
-                            &nbsp&nbsp{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ .Site.Title }}{{ end }}
+                            {{ end }}
+                            &nbsp;&nbsp;{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ .Site.Title }}{{ end }}
                         </a>
                         <a href="../" class="logo-collapsed">
+                            {{ if .Params.sidebar_logo }}
+                            <img src="../{{ .Params.sidebar_logo }}" height="40" alt="">
+                            {{ else }}
                             <img src="../images/logo.png" height="40" alt="">
+                            {{ end }}
                         </a>
                     </div>
                     <div class="mobile-menu-toggle visible-xs">
