@@ -396,3 +396,18 @@ input[type="button"],input[type="submit"]{background-color:#222;border:0;-webkit
     color: #fff;
     transform: translateY(-3px);
 }
+
+/* Font Awesome 品牌图标样式 */
+@font-face {
+    font-family: "Font Awesome 6 Brands";
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(../webfonts/fa-brands-400.woff2) format("woff2"),
+         url(../webfonts/fa-brands-400.ttf) format("truetype");
+}
+
+.fab {
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+}
