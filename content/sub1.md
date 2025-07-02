@@ -1,6 +1,6 @@
 ---
 type: nav #固定值nav(生成导航页)
-title:    #留空则使用网站标题
+title:   #留空则使用网站标题
 search: #搜索栏
   enable: false #true显示，false不显示
 edit: #在线编辑
@@ -60,7 +60,7 @@ data: #以下为导航链接内容
 
 - taxonomy: 视频号技术
   icon: fa-download
-  list: 
+  links: 
     - title: 视频号品退方法
       logo: ../images/logos/google.png
       url: https://fbjvryq00y.feishu.cn/docx/B2bVdbwLpoJJbixyZG3cz3M7nAd
@@ -68,7 +68,7 @@ data: #以下为导航链接内容
 
 - taxonomy: 电商综合
   icon: fa-download
-  list: 
+  links: 
     - title: 起诉材料包
       logo: ../images/logos/google.png
       url: https://fbjvryq00y.feishu.cn/drive/folder/KKuvfdj2clKSYddlEdfcPVFJnMe
@@ -84,7 +84,7 @@ data: #以下为导航链接内容
 
 - taxonomy: 电商文档资料
   icon: fa-download
-  list: 
+  links: 
     - title: 直播间类型文档合集
       logo: ../images/logos/google.png
       url: https://fbjvryq00y.feishu.cn/drive/folder/LBL7fGd5HllQ1qdumK5cWvhEnCo
@@ -109,3 +109,4 @@ data: #以下为导航链接内容
     - title: 达人建联管理表
       logo: ../images/logos/google.png
       url: https://fbjvryq00y.feishu.cn/sheets/T2QesthozhprYStFwqvcdg5Nn2b
+---
