@@ -112,4 +112,20 @@ data: #以下为导航链接内容
     - title: 达人建联管理表
       logo: ../images/wd.png
       url: https://fbjvryq00y.feishu.cn/sheets/T2QesthozhprYStFwqvcdg5Nn2b
+
+- taxonomy: 联系我们
+  icon: fa-photo-video
+  links:
+        - title: 微信客服
+          logo: images/TLS/Wechat.jpg
+          url: https://www.nodeimage.com/i/32451/KTcD1Tnp3WNR5XeGsc0yd3nSh4bLOEOx.png
+        - title: 抖音客服
+          logo: images/TLS/douyin.jpg
+          url: https://v.douyin.com/OHq9e7844u8
+        - title: 飞书客服
+          logo: images/TLS/feishu.jpg
+          url: https://www.nodeimage.com/i/32451/WqUooZnM3WNR5WkCsc0yRs9SO94tsAHz.png
+        - title: Github
+          logo: images/TLS/github.jpg
+          url: https://github.com/TLS-802
 ---
