@@ -699,3 +699,24 @@
           logo: images/icon font/dafont.png
           description: Archive of freely downloadable fonts
 
+
+- taxonomy: 多媒体信息
+  icon: fa-photo-video
+  links:
+        - title: 抖音视频下载
+          logo: images/tlslogo.jpg
+          url: https://xd.maorx.cn/
+          description: 抖音视频无水印下载
+        - title: YouTube视频下载
+          logo: images/tlslogo.jpg
+          url: https://www.y2mate.com/
+          description: YouTube视频下载工具
+        - title: 小红书无水印下载
+          logo: images/tlslogo.jpg
+          url: https://xd.maorx.cn/xhs.html
+          description: 小红书图文视频下载
+        - title: 剪映模板
+          logo: images/tlslogo.jpg
+          url: https://www.jianying.com/community/template
+          description: 剪映官方模板社区
+
