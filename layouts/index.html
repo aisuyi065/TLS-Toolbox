@@ -78,20 +78,7 @@
                     {{ end }}
                 </ul>
                 
-                <!-- 社交媒体链接 -->
-                {{ if .Site.Params.social.enable }}
-                <div class="social-links">
-                    <ul>
-                        {{ range .Site.Params.social.list }}
-                        <li>
-                            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" title="{{ .name }}">
-                                <i class="{{ .icon }}"></i>
-                            </a>
-                        </li>
-                        {{ end }}
-                    </ul>
-                </div>
-                {{ end }}
+
             </div>
         </div>
         <!-- 主内容区域 -->
